@@ -1,0 +1,120 @@
+Title: Methylphenidate - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Corinne Verghese; Sara Abdijadid.
+
+AuthorsCorinne Verghese1; Sara Abdijadid2.
+
+Last Update: January 2, 2023.
+
+Methylphenidate is United States Food and Drug Administration-approved for treating attention deficit hyperactivity disorder (ADHD) in children and adults and as a second-line treatment for narcolepsy in adults. Children diagnosed with ADHD should be at least 6 years of age or older before being started on this medication. Off-label uses of methylphenidate include treatment for fatigue in patients with cancer, refractory depression in the geriatric population, apathy in Alzheimer disease, and enhancing cognitive performance (eg, memory). The efficacy of methylphenidate for its off-label uses varies from limited to moderate. This activity will highlight the mechanism of action, adverse event profile/toxicity, pharmacology, monitoring, relevant interactions, and street names of methylphenidate, pertinent for interprofessional team members should they encounter a patient who requires therapy with or has potentially misused this drug.
+
+
+Objectives:
+Review the mechanism of action of methylphenidate.Identify the approved and off-label uses of methylphenidate.Summarize the contraindications and adverse events associated with methylphenidate.Describe interprofessional team strategies for improving care coordination and communication to properly use methylphenidate to improve patient outcomes in the varied scenarios where it can be effective.
+Access free multiple choice questions on this topic.
+
+
+Methylphenidate is United States Food and Drug Administration approved for treating attention deficit hyperactivity disorder (ADHD) in children and adults and as a second-line treatment for narcolepsy in adults.[1][2] Children diagnosed with ADHD should be at least 6 years of age or older before being started on this medication. The treatment of both ADHD and narcolepsy have significantly better outcomes when used concurrently with nonpharmacologic therapies (ie, social skills training in ADHD or sleep hygiene measures in narcolepsy). Off-label uses of methylphenidate include treatment for fatigue in patients with cancer, refractory depression in the geriatric population, apathy in Alzheimer disease, and enhancing cognitive performance (eg, memory).[3][4][5][6][7][8] Since it can be abused as a cognitive enhancer, it is a federally controlled Schedule II substance. The efficacy of methylphenidate for its off-label uses varies from limited to moderate. Most of these relatively newer uses are still being studied and implemented into clinical practice.
+
+Methylphenidate blocks the reuptake of 2 neurotransmitters, norepinephrine (NE) and dopamine, in presynaptic neurons. More specifically, it inhibits the transporters of these neurotransmitters, increasing the concentration of dopamine and NE in the synaptic cleft.[9] This creates its classic stimulant effect within the central nervous system (CNS), mainly in the prefrontal cortex. It chemically derives from phenethylamine and benzylpiperazine. It undergoes metabolism by the liver to ritalinic acid through a process called de-esterification via carboxylesterase 1, CES1A1. Compared to other medications (ie, amphetamines) that are phenethylamine derivatives, methylphenidate appears to increase the firing rate of neurons.[10] It is also a weak agonist at the serotonin 1A receptor, 5HT1A, which is an additional mechanism that contributes to the increased levels of dopamine.[11] 
+
+With the increase in dopamine levels, methylphenidate can provide neuroprotection in certain conditions like Parkinson disease, which involves loss of dopaminergic neurons and methamphetamine abuse.[12] This effect occurs not only through its direct inhibition of the dopamine transporter but also via indirect regulation of the vesicular monoamine transporter 2. The combined interactions methylphenidate has on both of these transporters reduce the amount of dopamine that accumulates within the cytoplasm in patients with these conditions, thereby preventing the formation of reactive oxygen species that would otherwise be dangerously toxic to the brain. 
+
+
+Dependence
+
+
+The therapeutic dosages for ADHD or narcolepsy that physicians prescribe are not harmful enough to activate the reward system within the CNS, known as the nucleus accumbens. However, excessively higher dosages taken by those who intentionally abuse the drug lead to an overexpression of deltaFosB, a transcriptional activator, in specific neurons within the striatum. This accumulation of deltaFosB in the nucleus accumbens activates a series of signaling cascades that further trigger the addiction.[13]
+
+
+Pharmacokinetics
+
+
+For medical purposes, methylphenidate is mainly given orally or, less commonly, as a transdermal patch. Multiple oral formulations are available that are categorized according to how quickly the drug is released: immediate (IR), extended (XR or ER), and sustained. Two of the more unique formulations of methylphenidate are its ER sphenoidal oral drug absorption system that has a bimodal release and the osmotic (controlled) release delivery system. There are chewable tablets (either IR or ER) for children and an IR solution. Doses should not exceed 72 mg, the maximum dose of the ER tablet. If using the transdermal patch, the patient must be aware of placing the patch on the opposite hip each time to achieve its full effect. Those who misuse methylphenidate for recreational purposes prefer to use the intravenous (IV) or the intranasal route. Assess the risk of abuse before prescribing methylphenidate in any form.
+
+
+Available Dosage Forms and Strengths 
+
+
+ Specific Patient Populations 
+
+Insomnia and nervousness are the most commonly reported adverse effects in patients using methylphenidate.[20] Growth retardation (decreased height, weight, and bone marrow density) is observed when taken long-term in children.[21] Other frequent side effects mainly involve the CNS (dizziness, headache, tics, restlessness/akathisia), gastrointestinal (nausea/vomiting, dry mouth, decreased appetite, weight loss, abdominal pain), and cardiovascular systems (tachycardia, and palpitations). Dermatologically, patients can complain of excessive sweating and ulceration of their digits. Some patients may even develop blurry vision or decreased libido. While it rarely occurs, priapism is a medical emergency that requires immediate attention.[20] Patients are more prone to become easily agitated, irritable, or depressed and go through mood swings/lability. While many common side effects can be relieved by adjusting the dosage or avoiding an afternoon or evening dose, some require treatment emergently to prevent complications.
+
+It is important to note that there have been reported cases of sudden death in both children and adults with a pre-existing structural cardiac abnormality.[22] Stroke and myocardial infarction also have been observed in adults. Due to the risk of such fatal side effects, it is advisable to avoid methylphenidate in patients with a structural cardiac abnormality, cardiomyopathy, or arrhythmias.[23] Drug Interactions: Methylphenidate can inhibit the metabolism of warfarin, phenytoin, tricyclic antidepressants, or selectove serotonin reuptake inhibitors and can increase plasma concentration.
+
+Patients must not use methylphenidate if they are currently on monoamine oxidase inhibitors (MAOIs). There should be a minimum of at least 14 days after discontinuation of MAOIs before methylphenidate can be considered a safe treatment option to begin due to the risk of hypertensive crisis. Medical conditions that are not compatible with methylphenidate include glaucoma, severe hypertension, motor tics, Tourette syndrome, or a family history of Tourette syndrome. If a patient is noticeably anxious, tense, or agitated, then seek alternative treatment options. However, it can be given cautiously in patients with a history of bipolar disorder or psychosis as long as clinicians are wary of mania or psychotic episodes induced by the medication.[12] Any patient who develops a hypersensitive reaction to methylphenidate or an individual component of a formulation should have the medication immediately discontinued and switch to another pharmacologic agent. Children under the age of 6 should not be prescribed this medication as there are limited studies to prove its safety or benefit, and it could cause learning impairments.
+
+Since it has the potential risk of abuse, monitor patients for signs of dependence and or abuse while on therapy. A complete blood count with differential should be obtained periodically for those on methylphenidate. The main vitals to note at each visit are blood pressure and heart rate, especially in patients with underlying hypertension, heart failure, a recent MI, or ventricular arrhythmia, as slight elevations can occur with methylphenidate use. In addition, if a patient complains of cardiac symptoms, such as chest pain, that worsens with exertion or has a near-syncope episode, then a full cardiac workup should be performed.
+
+In children, it is essential to evaluate their growth curve for a stable progression in height and weight since methylphenidate has demonstrated growth suppression when used daily and long-term. The medication should either be readjusted or discontinued if children are not in a healthy percentile on their growth curve.[21] Clinicians should screen for symptoms of depression, agitation, aggressiveness, new-onset or pre-existing psychosis or mania, and suicidality, as these can be worsened when initially starting methylphenidate. Physicians should also monitor for signs of intravenous abuse as frank psychotic episodes can develop. On physical exam, look for peripheral vasculitis (digital ulceration). 
+
+Controversial evidence exists regarding the potential for methylphenidate to affect seizure threshold. If seizures develop while being treated with methylphenidate, the prescribing clinician should immediately stop the drug.[24][25] In adults, patients should limit their alcohol use while taking methylphenidate as its stimulant action can mask the actual sedative effect caused by alcohol intoxication, possibly inducing severe respiratory depression. Additionally, a patient who is concurrently on warfarin, phenytoin, tricyclic antidepressants, or selective serotonin reuptake inhibitors should have their drug levels monitored and adjust doses as needed to achieve a therapeutic effect.
+
+The first step in a medication overdose is to immediately contact a poison control center for the appropriate management steps. Doses that exceed 60 mg of the immediate-release formulation or 120 mg of the extended-release formulation can be considered toxic. If the overdosed quantity is unknown, look for signs and symptoms such as tremors, hyperreflexia, convulsions, euphoria, confusion, hallucinations, delirium, flushing, and fever, in addition to the common adverse effects mentioned above. Supportive care with supplemental oxygen, intravenous fluids, and external cooling methods is the mainstay of treatment. Multiple studies have shown that benzodiazepines are an option, especially if dystonia, agitation, or convulsions are present.[20]
+
+It is essential to gather a thorough history from the patient (or the patient’s legal guardian) regarding their past medical history, current medications, and social history (obtain a developmental history if the patient is a child). An interprofessional healthcare team consisting of the patient’s primary care provider, psychiatrist, nurse practitioners, physician assistants, social workers, therapists, school teachers, and pharmacists should oversee the patient's case. Communication between each member of the healthcare team is crucial as medication combined with non-pharmacologic treatment measures provide the most long-term success. Evaluation of side effects requires close monitoring at each visit. If the patient is a child, it is crucial to give the patient’s legal guardian education regarding the medication and its side effects. This interprofessional approach will optimize therapeutic results while limiting adverse events.
+
+
+Outcomes
+
+
+Studies have shown that medication alone is not as effective as when methylphenidate is combined with non-pharmacologic treatment measures. Patients with ADHD managed on both medication and non-pharmacologic treatments have been shown to have higher self-esteem and social functioning skills versus those untreated. Long-term beneficial effects have been shown in adults with ADHD who continue to take methylphenidate. Further long-term studies are still in progress.[26][27]
+
+Disclosure: Corinne Verghese declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Sara Abdijadid declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

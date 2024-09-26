@@ -1,0 +1,218 @@
+Title: Ethanol - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Fleming Mathew; Amandeep Goyal.
+
+AuthorsFleming Mathew1; Amandeep Goyal2.
+
+Last Update: August 11, 2024.
+
+Ethanol is an alcohol that may be administered clinically to treat methanol and ethylene glycol toxicity and is applied to surfaces for disinfection and sterilization. Ethanol has also emerged as a novel cancer therapy, offering an alternative to surgical interventions. The activity discusses the indications, mechanism of action, administration, adverse effects, and contraindications for ethanol administration. Understanding ethanol's pharmacology enables healthcare professionals to optimize dosing and minimize adverse reactions. Emphasis is placed on the crucial role of the interprofessional healthcare team in managing ethanol therapy. This discussion equips healthcare professionals with the knowledge required to safely and effectively administer ethanol, improving patient outcomes and care standards.
+
+
+Objectives:
+Identify the therapeutic indications for ethanol administration.Evaluate the mechanisms contributing to ethanol's clinical efficacy across various clinical applications.Determine the appropriate management of ethanol toxicity.Implement effective collaboration and communication among interprofessional team members to ensure appropriate candidate selection for percutaneous ethanol ablation versus surgery, thereby minimizing surgery-related comorbidities and optimizing patient outcomes.
+Access free multiple choice questions on this topic.
+
+
+Ethanol is formed during the fermentation of naturally occurring sugars. This chemical's structure consists of a pair of carbon atoms with an alkyl group coupled with an -OH functional group; this -OH group makes the molecule an alcohol, denoted by the "-ol" suffix. Unlike other alcohols (eg, methanol, butanol, propanol), humans can consume ethanol in its purest form without dying. 
+
+
+Indications
+
+
+Clinicians may already be aware of the common clinical uses for ethanol, including as a hand sanitizer to prevent healthcare-associated infections (HCAIs) and as part of lock therapy to reduce the incidence of IV catheter-related bloodstream infections (CRBIs).[1][2] The administration of ethanol to prevent toxic metabolite formation may also be apparent. However, recent evidence suggests ethanol's potential as a novel therapy for the scenarios below.  
+
+
+Fomepizole alternative:
+
+
+Fomepizole is FDA-approved to treat patients with methanol or ethylene glycol poisoning, and it has a far greater affinity for ADH than ethanol. Even though fomepizole is a superior antidote, its limited availability and a general lack of knowledge among clinicians regarding fomepizole's pharmaceutical features have led to the continued use of ethanol infusions as a treatment for these patients.[3][4] 
+
+Ethanol may be administered as an alternative to fomepizole for patients with:
+
+Commerical preparation of ethanol is no longer available in the USA; reconstitution is required.
+
+
+Ablative, embolic, or sclerosing agent:
+
+
+Recent studies have shown that ethanol may be used in specific scenarios listed below.[7]
+
+As an ablative agent for patients with:
+
+As an embolic agent for patients with: Arteriovenous malformations [14]
+
+As a sclerosing agent:
+
+
+Antidote
+
+
+
+Hand Sanitizer and Sepsis Prevention
+
+
+Many surveys have reported the global burden of healthcare-associated infections (HCAIs). Alcohols exhibit antimicrobial activity by denaturing and coagulating proteins within the microbial cell wall. Ethanol is also effective against viruses and can be combined with other alcohols to achieve a powerful synergistic effect against various microorganisms. 
+
+
+Ablative/Sclerosing/Embolic Agent
+
+
+Ethanol may be used to treat various neoplasms, cysts, and vascular malformations or induce neurolysis. Ethanol is directly toxic and dehydrating to cells that form the endothelial lining, causing fibrotic changes. This fibrosis leads to ischemia and size reduction of tumors and other hyperplastic growths.[19]
+
+
+Available Dosage Forms and Strengths
+
+
+Ethanol solution is clinically available as a 95% solution in 1.0 mL and 5.0 mL vials for injection and as a 70% solution for use during ethanol lock therapy. Ethanol is also commercially available as a 10% solution. Intravenous infusion is the preferred method for patients with methanol or ethylene glycol poisoning. However, ethanol may also be administered orally or through a nasogastric tube.
+
+
+Adult Dosing
+
+
+
+Hand sanitizer:
+
+
+Alcohol-based hand sanitizer (ABHS) is known to prevent nosocomial infections. However, the efficacy of these compounds against neutralizing microorganisms is dependent mainly on the effectiveness of their use. Several studies recommend applying 2.4 to 3 mL for a minimum of 30 seconds to ensure maximum possible disinfection.[1]
+
+
+Methanol toxicity:
+
+
+The loading and maintenance doses should be carefully monitored in an intensive care setting to prevent any toxic effect of ethanol itself.
+
+
+Ethanol solution (95%):
+
+
+Ethanol solution (10%):
+
+
+Ethanol lock therapy:
+
+
+Ethanol lock therapy (ELT) and regular antibiotic therapy may be co-administered over 4-6 hours. This regimen significantly reduces the incidence of catheter-related bloodstream infections (CRBSI).
+
+
+Ablation or sclerosis:
+
+
+Ethanol is injected directly into the lesion or parenchyma of the specific organ or tissue. Clinicians may be guided by endoscopic ultrasound or CT. 
+
+
+Pediatric Dosing
+
+
+
+Methanol toxicity:
+
+
+
+Ethanol solution (95%):
+
+
+
+Ethanol solution (10% = 7.9 g/dL):
+
+
+During the liver's conversion of ethanol to acetaldehyde, the electron carrier NAD+ donates 2 electrons to this reaction. In the process, NAD+ is reduced to NADH, increasing the NADH/NAD+ ratio in the hepatocytes.
+
+An elevated NADH/NAD+ ratio causes:
+
+Ingested ethanol is primarily metabolized in the liver; hepatic damage often accompanies chronic alcohol consumption. This damage can lead to steatosis, cirrhosis, and hepatic carcinoma. Other affected organs/organ systems include:
+
+Ethanol must not be administered concurrently with fomepizole, which inhibits ethanol metabolism and prolongs its half-life. This inhibition can result in significantly elevated ethanol levels and possible manifestations of ethanol intoxication. Contraindications to ethanol administration also include pregnancy and breastfeeding.
+
+
+Hand Sanitizer
+
+
+Although there is no objective contraindication for alcohol-based hand sanitizer (ABHS) in any particular medical setting, it is common knowledge that ABHS doesn't kill all harmful microorganisms, including the spores of Clostridium difficile. ABHS is also ineffective against some protozoan oocysts (eg, Cryptosporidium) and non-enveloped viruses (eg, norovirus). Handwashing using soap and water is more effective against these organisms than ABHS.[1]
+
+
+Ablation
+
+
+Percutaneous ethanol injection as part of ablation therapy is contraindicated when:
+
+Ethanol demonstrates zero-order kinetics. Alcohol is primarily absorbed in the proximal small intestine, but a small fraction is also absorbed by the mucosal layer of the mouth, esophagus, and stomach. Alcohol is primarily metabolized in the liver; the rate of oxidation per unit time yields a linear curve. Insulin release stimulates ethanol metabolism, while conditions like starvation impair this process. Alcohol metabolism occurs via an oxidative and non-oxidative pathway. Various enzymes play a role in the oxidative pathway, including alcohol dehydrogenase (ADH) in the cytosol, aldehyde dehydrogenase (ALDH) in mitochondria, cytochrome P450 (CYP2E1) in microsomes, and catalase in peroxisomes. The non-oxidative pathway includes the enzymes fatty acid ethyl ester synthase (FAEES) and phospholipase D (PLD). The administration of medications that inhibit the oxidative pathway enzymes drive non-oxidative metabolism.[22]
+
+In the oxidative pathway, ethanol is first converted to acetaldehyde by alcohol dehydrogenase (ADH) in the cytosol of hepatocytes. NAD+ serves as an electron carrier for this reaction and is reduced to NADH. This process significantly reduces the cytosol, predisposing to damage by reactive oxygen species (ROS) and other byproducts of alcohol metabolism. The drug fomepizole competitively inhibits ADH, preventing the formation of toxic metabolites. 
+
+Acetaldehyde is further oxidized in the liver by acetaldehyde dehydrogenase (ALDH) to acetic acid, which is converted to acetyl-CoA by acetyl-CoA synthetase. Acetyl-CoA is eventually transformed into acetone through ketoacid intermediates. Acetone is oxidized to CO2 in the cardiac and skeletal muscles and the brain. Administration of disulfiram (an acetaldehyde dehydrogenase inhibitor) delays acetaldehyde clearance, causing symptoms such as nausea, vomiting, chest and abdominal pain, dizziness, and worsening hangover. This medication may be used to help treat alcohol use disorders. Drugs that exhibit properties similar to disulfiram include metronidazole, sulfamethoxazole and trimethoprim, chloramphenicol, quinacrine, first-generation sulfonylureas, griseofulvin, and some cephalosporins such as cefotetan and cefoperazone.
+
+The non-oxidative pathway produces fatty acid ethyl esters (FAEEs), which cause tissue damage and form phosphatidyl ethanol from phospholipase D. Given phospholipase D's role in cell signaling, excessive non-oxidative pathway activation can impair this communication.[22] Transient heart block can occur after alcohol septal ablation procedures, necessitating the insertion of a temporary pacemaker.[23] About 10% of these heart blocks persist and require a permanent pacemaker.
+
+Alcohol intoxication causes CNS depression by enhancing the inhibitory effect of GABA on its receptors. Alcohol also inhibits the effects of glutamate on NMDA receptors, resulting in disinhibition and a blunted mental state. Ethanol intoxication manifests as slurred speech, stupor, and gait abnormalities. Severe intoxication may even result in a coma. 
+
+Clinicians should first correct thiamine (vitamin B1) deficiency, which often accompanies chronic alcohol use disorder. Electrolyte derangements should be corrected through appropriate infusion. Extensive counseling is frequently required for patients with alcohol use disorder. Some medications that promote alcohol cessation include naltrexone (μ-opioid receptor antagonist), disulfiram (negative conditioning), topiramate, and gabapentin.
+
+Alcohol withdrawal is another common morbidity that arises as a complication of alcohol use disorder (AUD). Alcohol withdrawal syndrome (AWS) occurs due to abrupt cessation of alcohol consumption after binge drinking or long-term dependence. The signs and symptoms range from mild (eg, anxiety, headache, palpitations) to severe (eg, seizures, delirium tremens). The features of AWS typically arise within 24 hours of discontinuing alcohol consumption. Treatment involves supportive therapy for complaints. Any associated comorbidities should be treated with a 'banana bag' of essential vitamins. Severe AWS is an indication for benzodiazepine administration.[24]
+
+Ethanol has existed as a recreational beverage since the beginning of civilization. Over the past century, extensive research has demonstrated ethanol's uses for treating disease. Ethanol has become indispensable in preventing hospital-acquired infections as a component of hand sanitizer formulas. Healthcare providers (including clinicians, mid-level providers, nurses, and pharmacists) must sanitize their hands and wear gloves before touching the patient or handling equipment (eg, catheter tubes, cannulas). This principle is also the basis of ethanol lock therapy in an ICU setting to prevent sepsis associated with infected catheters.
+
+Ethanol is currently being studied as an ablative agent for treating different neoplastic conditions that cannot be treated with surgery. The surgeon must evaluate appropriate candidates based on age, financial status, and comorbid conditions to appropriately recommend ethanol ablation over classic surgery for the purpose of preventing mortality.
+
+Ethanol has been used for decades as a treatment for methanol or ethylene glycol poisoning. Even though fomepizole has emerged as a better antidote due to its superior neutralization of the offending agent, more predictable pharmacokinetics, and lower associated mortality, many still prefer ethanol due to its low cost and greater physician familiarity.  
+
+Alcohol use disorder remains a global challenge, considering the mortality that correlates with misuse. More than 135 million Americans aged 12 and older actively use alcohol.[25] The clinician must identify and counsel these patients. If necessary, they should be hospitalized and receive appropriate treatment. The optimal therapeutic use of ethanol may be achieved through an interprofessional healthcare team, including clinicians (MDs, DOs, NPs, PAs), nursing staff, and pharmacists, who work collaboratively to achieve optimal patient outcomes with minimal adverse events.
+
+Disclosure: Fleming Mathew declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Amandeep Goyal declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

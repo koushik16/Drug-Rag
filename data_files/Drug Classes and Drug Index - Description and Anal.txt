@@ -1,0 +1,135 @@
+Title: Drug Classes and Drug Index - Description and Analysis of the VA National Formulary - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+Institute of Medicine (US) VA Pharmacy Formulary Analysis Committee; Blumenthal D, Herdman R, editors. Description and Analysis of the VA National Formulary. Washington (DC): National Academies Press (US); 2000. 
+
+There are several hundred classifications of drugs using various systems such as the American Hospital Formulary System. Although, many drugs fit into more than one category, they are commonly classified by therapeutic indication (for example, cardiovascular drugs for use in treating conditions such as hypertension, congestive heart failure, and cardiac arrhythmias). Classification of drugs and drug classes is a complicated subjected. The interested reader is referred to The Physicians' Desk Reference, Drug Facts and Comparisons, American Hospital Formulary System, or Drug Information for the Health Care Professional. Information can also be found on-line at www.ditonline.com, and www.intelihealth.com. For brevity and clarity, the committee has included in this index only the listing and definitions of drug classes and class members cited in this report.
+
+Angiotensin-Converting Enzyme Inhibitors (ACEI)—Drugs for the treatment of high blood pressure that inhibit an enzyme, angiotensin-converting enzyme, which produces a blood-pressure-elevating substance.
+
+Alpha Blockers—Drugs that block receptors in arteries and smooth muscle. This action relaxes the blood vessels and leads to an increase in blood flow and a lower pressure for the control of hypertension. The action in the urinary tract enhances urinary flow in prostatic hypertrophy.
+
+Analgesic Drug—A drug for the control of pain.
+
+Angiotensin II Receptor Blockers— Drugs for the treatment of high blood pressure that act to block the receptor for Angiotensin II, a blood-pressure-elevating substance.
+
+Antipyretic Drug—A drug for the control of fever.
+
+Calcium Channel Blockers (CCBs)— Drugs that inhibit the movement of calcium through cellular membranes and cause blood vessels to relax thereby increasing flow and lowering blood pressure.
+
+Cyclooxygenase-2 (COX-2) Inhibitors—Drugs for the treatment of pain, arthritis, and primary dysmenorrhea that inhibit prostaglandin synthesis by inhibiting the enzyme cyclooxygenase-2.
+
+Histamine
+
+2
+
+ Receptor (H
+
+2
+
+R) Blockers— Drugs for ulcers and acid reflux that diminish acid by blocking a receptor in the acid-producing system in the stomach.
+
+Hydroxymethylglutaryl Coenzyme A Reductase Inhibitors (HMG CoA RIs)—Drugs that inhibit a liver enzyme involved in the synthesis of cholesterol, thus reducing cholesterol levels and the risk of cardiovascular disease.
+
+Luteinizing Hormone-Releasing Hormone (LHRH) Analogues—Drugs that suppress endogenous sex hormone production and are used to treat prostate cancer.
+
+Nonsteroidal Anti-Inflammatory Drug (NSAID)—An analgesic and anti-inflammatory drug that is not a corticosteroid analogue.
+
+Prokinetic Agents—Drugs used in the treatment of gastroesophageal reflux and delayed gastric emptying.
+
+Proton Pump Inhibitors (PPIs)—Drugs for the treatment of ulcers and acid reflux disease that inhibit the enzyme system that produces stomach acid.
+
+Selective Serotonin Reuptake Inhibitors (SSRIs)—Drugs that selectively block the uptake of the neurotransmitter serotonin and are used in the treatment of depression and certain other mental health disorders.
+
+Aldesleukin Interleukin-2—Drug for the treatment of adults with metastatic renal cell carcinoma, brand name Proleukin (Chiron Corp).
+
+Alendronate Sodium—Drug used for the prevention and treatment of osteoporosis in postmenopausal women, brand name Fosamax (Merck).
+
+Alglucerase—Modified form of the enzyme Beta-glucocerebrosidase used in the treatment of patients with type I Gaucher's disease, brand name Ceredase (Genzyme).
+
+Alprostadil— A drug that has vasodilatory effects and is used in the treatment of erectile dysfunction, brand name Caverject (Pharmacia and Upjohn).
+
+Bupropion—A member of the drug class aminoketones used for the treatment of depression. The mechanism of action is unknown but may be related to preventing the reuptake of neurotransmitters, brand name Welbutrin (Glaxo Wellcome).
+
+Clopidogrel— A drug that, like aspirin, inhibits cells involved in blood clotting and decreases heart attacks and strokes, brand name Plavix (Bristol Meyers Squib, Sanofi).
+
+Clozapine— An atypical antipsychotic used for the treatment of schizophrenia, brand name Clozaril (Novartis).
+
+Donepezil Hydrochloride—A drug that inhibits acetylcholinesterase and is used for the treatment of Alzheimer's disease, brand name Aricept (Eisai).
+
+Epoetin Alpha—A drug that stimulates red blood cell production and is used in the treatment of patients with chronic renal failure, brand names Epogen (Amgen) and Procrit (Ortho Biotech).
+
+Etanercept— A drug that blocks tumor necrosis factor from binding to its receptor, thus preventing normal inflammatory and immune responses. It is currently used in the treatment of rheumatoid arthritis, brand name Enbrel (Immunex).
+
+Filgrastim Granulocyte Colony Stimulating Factor (G-CSF)— A drug used to stimulate blood production of white cells and decrease the incidence of infection in cancer patients, brand name Neupogen (Amgen).
+
+Finasteride— A drug used in the treatment of symptomatic benign prostatic hyperplasia in men with an enlarged prostate, brand name Proscar (Merck).
+
+Fluconazole—drug for the treatment of fungal infections, brand name Diflucan (Pfizer).
+
+Fluticasone Propionate—A synthetic corticosteroid for the treatment of allergic rhinitis, brand name Flonase (Glaxo Wellcome).
+
+Imiglucerase—A recombinant DNA form of the enzyme beta-glucocere-brosidase (alglucerase) used in the treatment of patients with type I Gaucher's disease, brand name Cerezyme (Genzyme).
+
+Interferon Beta-l—Drug used in the treatment of ambulatory patients with multiple sclerosis to reduce the frequency of clinical exacerbations, brand name Betaseron (Berlex).
+
+Isotretinoin—A drug that inhibits sebaceous gland function and is used in the treatment of severe acne, brand name Accutane (Roche Laboratories).
+
+Itraconazole—A drug used in the treatment of fungal infections, brand name Sporanox (Janssen).
+
+Rizatriptan Benzoate—A selective serotonin agonist used in the treatment of migraines, brand name Maxalt (Merck).
+
+Sumatriptan—A selective serotonin agonist used in the treatment of migraines, brand name Imitrex (Glaxo Wellcome).
+
+Tacrine Hydrochloride —A drug that is a reversible inhibitor of cholinesterase and is used in the treatment of Alzheimer's disease, brand name Cognex (Parke-Davis).
+
+Terbinafine—A drug for the treatment of fungal infections, brand name Lamisil (Novartis).
+
+Troglitazone—A drug that lowers blood glucose by improving target cell response to insulin and was used (recalled by FDA) in the treatment of type II diabetes, brand name Rezulin (Parke-Davis).
+
+Zolmitriptan— A selective serotonin agonist used in the treatment of migraines, brand name Zomig (Zeneca).
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

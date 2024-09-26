@@ -1,0 +1,112 @@
+Title: Fentanyl - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Carlos F. Ramos-Matos; Karlyle G. Bistas; Wilfredo Lopez-Ojeda.
+
+AuthorsCarlos F. Ramos-Matos1; Karlyle G. Bistas2; Wilfredo Lopez-Ojeda3.
+
+Last Update: May 29, 2023.
+
+Fentanyl is a potent synthetic opioid, which, similar to morphine, produces analgesia but to a greater extent. This robust pharmacologic agent is typically 50 to 100 times more potent. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, its most common use is as a sedative in intubated patients and in severe cases of pain in patients with renal failure due to its primarily hepatic elimination. At times, fentanyl may also be indicated to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, drug administration is most commonly via a drip. Lastly, fentanyl use can extend to the treatment of epilepsy. That is, in combination with certain neuroleptic medications as part of therapeutic neuroleptanalgesia. This activity outlines the indications, mechanism of action, administration methods, significant adverse effects, contraindications, monitoring, and toxicity of fentanyl so that providers can direct patient therapy to optimal outcomes.
+
+
+Objectives:
+Identify the mechanism of action of fentanyl.Summarize the approved indications for pain control therapy with fentanyl.Review the contraindications and adverse event profile of fentanyl.Explain interprofessional team strategies for improving care coordination and communication to advance fentanyl therapy, improve outcomes, and minimize adverse events and misuse, especially in light of the ongoing opioid crisis.
+Access free multiple choice questions on this topic.
+
+
+Fentanyl (which can also be spelled fentanil) is a potent synthetic opioid similar to morphine but produces analgesia to a greater extent. This robust pharmacologic agent is typically 50 to 100 times more potent than morphine. A dose of only 100 micrograms can produce equivalent analgesia to approximately 10 mg of morphine. However, fentanyl exhibits vastly different properties and pharmacokinetics. Clinically, its most frequent use is as a sedative in intubated patients and in severe cases of pain in patients with renal failure due to its primarily hepatic elimination.[1] 
+
+At times, clinicians may also use fentanyl to treat chronic pain patients who have developed tolerance to opiates. When used as a sedative, it is most commonly administered as a drip, owing to its versatility in titration scenarios.[2] It may often require large doses when used as a sedative in patients with mechanical ventilation requirements. As pre-medication for procedures, namely those anticipated to cause discomfort, fentanyl is also an option perioperatively. Lastly, fentanyl use can extend to the treatment of epilepsy. That is, in combination with certain neuroleptic medications as part of therapeutic neuroleptanalgesia.[3]
+
+Indications for fentanyl are as follows:
+
+Fentanyl was first produced in 1960 and approved for use in the USA in 1968.[4]
+
+Fentanyl is also a drug subject to diversion for misuse. Fentanyl can be added to heroin for increased potency or be distributed under the guise of highly potent heroin. When users think they are purchasing heroin and instead actually receive fentanyl, it can often result in overdose deaths.[5] According to the CDC, many of these overdose deaths result from illegally manufactured fentanyl.
+
+Fentanyl is similar to other opioid drugs. Fentanyl molecules target a subclass of opioid receptor systems in the body, many of which are localized in the brain within specialized neuroanatomical structures, particularly involving the control of emotions, pain, and speaking to the point of its infamous addictive properties, reward. Biochemically, it is a Mu-selective opioid agonist. However, it has the capability to activate other opioid system receptors such as the delta and potentially the kappa-receptors. Consequently, the activation of these receptors, particularly the Mu-receptors, produces analgesia. Also, the neurotransmitter dopamine (Da) is increased in the reward areas of the brain, which elicits the stereotypical exhilaration and relaxation effects, and is typically associated with the addiction to the drug.[6]
+
+Fentanyl is hepatically metabolized via the CYP450 enzyme system, specifically CYP3A4. The drug has a half-life of 3 to 7 hours. Excretion is 75% in the urine and 9% in feces.
+
+Fentanyl is typically administered intravenously (IV), intramuscularly (IM), transdermally (TD) as skin patches, intranasally (IN) in the form of a volatile nasal spray, and intrathecally (IT). It is also available as a buccal soluble thin film, which can dissolve in the mouth, similar to the sublingual tablets. However, in contrast to other opiates, it is less common to find forms of synthetic drugs such as oral tablets or powders. A new medication currently being used to address the gastrointestinal (GI) side effects without counteracting its primary analgesic aims acts selectively on the GI mu-opioid receptors and can aid in alleviating constipation while still providing pain relief, a dilemma previously treated off-label in some hospitals by suspending a vial of naloxone in ice water and taking the mix enterally. The transdermal patch is for the long-term management of pain. This article focuses on injectable fentanyl; more detailed coverage of the transdermal formulation is available in the StatPearls specific article on transdermal fentanyl.
+
+Fentanyl comes in an injectable form of 50 mcg/mL. Dosing is as follows by indication:
+
+Fentanyl's side effects are similar to those of heroin, which produce euphoria, confusion, respiratory depression (which, if extensive and untreated, may lead to arrest), drowsiness, nausea, visual disturbances, dyskinesia, hallucinations, delirium, a subset of the latter known as "narcotic delirium," analgesia, constipation, narcotic ileus, muscle rigidity, constipation, addiction, loss of consciousness, hypotension, coma, and even death.[7] Alcohol and other drugs (i.e., cocaine, heroin) can synergistically exacerbate fentanyl's side effects, creating multi-layered clinical scenarios that can be complex to manage. These substances, taken together, generate undesirable conditions that complicate the patient's prognosis.[8][9]
+
+The use of fentanyl is contraindicated in patients in the following situations:
+
+The drug fentanyl should not be used concomitant with certain medications such as CYP3A4 inhibitors like macrolide antibiotics or azole-antifungal agents, and protease inhibitors may increase plasma concentrations of fentanyl, extending the opioid drug action and exacerbating the opioid-induced respiratory depression (OIRD). On the other hand, the cessation of a CYP3A4 inducer medication (i.e., carbamazepine, phenytoin) in patients treated with fentanyl citrate injections may potentially increase fentanyl plasma concentrations prolonging the opioid adverse reactions. If the patient has used a monoamine oxidase inhibitor in the previous 14 days, fentanyl is contraindicated.
+
+Baseline monitoring parameters include creatine, then ECG and vital signs should be monitored continuously.[10]
+
+When using fentanyl citrate injections along with medications such as CYP3A4 inhibitors or stopping the CYP3A4 inducers in patients treated with fentanyl injections, the patients should receive frequent and close monitoring. Also, consider lowering the dose of fentanyl. Similarly, when using fentanyl citrate injection in conjunction with CYP3A4 inducer medications or stopping the CYP3A4 inhibitors, an undesirable reduction in fentanyl plasma concentrations may occur, thereby decreasing its systemic efficacy. The use of fentanyl citrate injection with CYP3A4 inducers or stopping the CYP3A4 inhibitor will require close and repetitive monitoring of the patient. Also, consider augmenting the dose of fentanyl as needed.
+
+Typically, a fentanyl overdose manifests as an extrapolation of its pharmacological side effects. Although the clinical scenarios may vary among patients, one of the main concerns is the level of expression of OIRD. In such cases, oxygen administration and respiratory assistance are a priority. An opioid drug antagonist such as naloxone can help to correct OIRD symptoms. Commonly, repeated doses are necessary since, over time, respiratory depression may overcome the effects of the antagonist drug, particularly with opiates such as fentanyl, in which increased receptor affinity may be present as compared to other opiates. Thus, the therapeutic approach should continue until a normal respiratory rate coincides with appropriate oxygen saturation levels.
+
+Naloxone/naltrexone are robust opioid antagonists that function by blocking µ-receptors. The FDA has approved these antidote medications for emergency treatment of patients with known or suspected opioid overdose experiencing respiratory and/or central nervous system (CNS) depression. Common routes of naloxone administration include IV, IM, IN, or subcutaneous (SC). Researchers have recently posed a caveat regarding the intranasal route for naloxone administration. Since the incidence of obstructive nasal pathology is relatively high in patients who experience serious OIRD, there is documentation of relevant instances of treatment failures when using the IN formulations.
+
+Also, an IV neuromuscular blocker may be employed in cases of severe muscular rigidity to assist the controlled respiration treatments.
+
+Fentanyl is a widely used narcotic in the hospital environment. However, with recent concerns about opiate overdose and toxicity, all interprofessional healthcare team members who prescribe, administer, or dispense this medication should be familiar with the drug's adverse effects and how to reverse them. This includes all clinicians (including mid-level practitioners), nurses, and pharmacists. When prescribing fentanyl, the dose and duration should be the lowest and shortest effective, and the patient is continually assessed for compliance and/or diversion in outpatient settings. Healthcare workers should be aware of new prescribing laws governing opioids, and unlike in the past, empirical prescribing of narcotics can lead to legal troubles, including loss of prescription privilege.[11][12] With interprofessional coordination of activities and open communication, fentanyl therapy can be successful and adverse events avoided or managed if they arise. [Level 5]
+
+Disclosure: Carlos Ramos-Matos declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Karlyle Bistas declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Wilfredo Lopez-Ojeda declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

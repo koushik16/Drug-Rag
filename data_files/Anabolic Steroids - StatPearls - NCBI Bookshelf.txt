@@ -1,0 +1,120 @@
+Title: Anabolic Steroids - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Kavitha Ganesan; Sajedur Rahman; Patrick M. Zito.
+
+AuthorsKavitha Ganesan1; Sajedur Rahman2; Patrick M. Zito3.
+
+Last Update: May 23, 2023.
+
+Anabolic steroids (also known as androgenic steroids) are synthetic derivatives of testosterone. Legal, as well as the illegal use of anabolic steroids, is gaining popularity. There are two types of anabolic steroids: 1) 17 alpha alkyl derivatives and 2) 17 beta ester derivatives. All anabolic steroids are DEA schedule III drugs. This activity will highlight the mechanism of action, adverse event profile, and other key factors (e.g., off-label uses, dosing, pharmacodynamics, pharmacokinetics, monitoring, relevant interactions) pertinent to the interprofessional team members anabolic steroids appropriately for various indications.
+
+
+Objectives:
+Identify the medically approved indications for anabolic steroid therapy.Describe the general mechanism of action of the anabolic steroid class of drugs.Summarize the potential adverse effects and indicate appropriate monitoring for adverse events when using anabolic steroids.Outline interprofessional team strategies for improving care coordination and communication to advance appropriate clinical outcomes with anabolic steroid therapy and improve outcomes, as well as measures to prevent misuse.
+Access free multiple choice questions on this topic.
+
+
+Anabolic steroids (also known as androgenic steroids) are synthetic derivatives of testosterone. Legal, as well as the illegal use of anabolic steroids, is gaining popularity. There are two types of anabolic steroids: 1) 17 alpha alkyl derivatives: e.g., oxandrolone, oxymetholone, and fluoxymesterone; and 2) 17 beta ester derivatives: e.g., testosterone cypionate, testosterone enanthate, testosterone heptylate, testosterone propionate, nandrolone decanoate, nandrolone phenpropionate, and dromostanolone. Nandrolone phenpropionate is a C18 androgenic anabolic steroid and was one of the first anabolic steroids to be used as a doping agent by professional athletes in the 1960s. It was banned from the Olympics by the IOC in 1974. All anabolic steroids are DEA schedule III drugs.[1][2][3]
+
+FDA-approved indications for the use of anabolic steroids are primary hypogonadism, delayed puberty in boys (testosterone enanthate), hypogonadotropic hypogonadism (testosterone cypionate, enanthate, and undecanoate), gonadotropin and luteinizing hormone-releasing hormone deficiency, pituitary-hypothalamic axis dysfunction from various tumors, injury, and radiation. Other indications for the use of testosterone include primary testicular failure in patients with cryptorchidism, orchitis, testicular torsion, vanishing testis syndrome, previous history of orchiectomy, Klinefelter syndrome, chemotherapeutic agents, toxic damage from alcohol use, and heavy metals.
+
+Non-FDA-approved indications of androgenic steroids include bone marrow stimulation in leukemia, aplastic anemia, kidney failure, growth failure, stimulation of appetite, and muscle mass in malignancy and acquired immunodeficiency syndrome. Anabolic steroid users are sometimes used by athletes at all levels in sports such as bodybuilding, weightlifting, baseball, football, cycling, wrestling, and many others to improve their performance.
+
+Endogenous androgen is responsible for the growth and development of the sex organs in men and maintaining secondary sex characteristics. Endogenous anabolic steroids such as testosterone and dihydrotestosterone and synthetic anabolic steroids mediate their effects by binding to and activating androgen receptors. In skeletal muscle, anabolic steroids regulate the transcription of target genes that control the accumulation of DNA in skeletal muscle required for muscle growth.[4][5][3]
+
+Anabolic steroids also upregulate and increase the number of androgen receptors, thus enabling increased training intensity and indirectly contributing to increased muscle size and strength. They also have a stimulatory effect on the brain through their diverse effects on various central nervous system neurotransmitters, antagonism of glucocorticoids, and stimulation of the growth hormone-insulin-like growth factor-1 axis.
+
+Nandrolone decanoate and nandrolone phenpropionate are associated with the increased ratio of anabolic activity versus androgenic activity. Nandrolone decanoate is a slow-acting anabolic steroid designed for the sole purpose of increasing muscle mass. It acts by promoting nitrogen retention in muscles, leading to an increase in muscle size, and providing joint pain relief by promoting collagen synthesis and enhancing bone mineralization. Nandrolone phenpropionate also causes an increase in muscle growth, stimulation of appetite, and an increase in the production of red blood cells.
+
+Dromostanolone is a synthetic anabolic steroid with anti-estrogenic properties and is five times more potent than methyltestosterone, which is being used widely by bodybuilders to prepare for competition. It increases retention of nitrogen, phosphorus, and potassium, resulting in increased protein anabolism and a decrease in the catabolism of amino acids, leading to an increase in density and hardness of muscle.
+
+Anabolic steroids administration can be via oral pills, injections, creams or topical gels, and skin patches.
+
+
+Medications Not Approved by FDA for Medical Use
+
+
+The following are a list of some of the adverse effects of anabolic steroids:
+
+Testosterone cypionate is contraindicated in the presence of severe renal, cardiac and hepatic disease, men with breast cancer and prostate cancer, venous thromboembolism, pregnant women, or women who may become pregnant breastfeeding women, hypersensitivity to any component of the formulation. The Endocrinology Society suggests that it may be judicious to avoid treatment with testosterone in men who have a history of myocardial infarction and stroke in the last six months.[6][7]
+
+Before initiating treatment with testosterone, diagnosis of hypogonadism require confirmation by measuring early morning testosterone levels on two separate days. Lipid profile, hepatic function tests, hemoglobin, hematocrit, prostate-specific antigen, and prostate exam in patients older than 40 years of age are necessary before initiating treatment.
+
+During treatment with anabolic steroids, clinicians should obtain the patient's lipid profile, hepatic function tests, hemoglobin, and hematocrit (at 3 to 6 months, then every year). Women treated with testosterone for breast cancer require monitoring for signs of virilization. Patients on testosterone should be monitored for their response to treatment and adverse effects three to six months after initiation of therapy and then every year, especially for cardiac adverse events.
+
+Men greater than 40 years of age with baseline prostate-specific antigen (PSA) more than 0.6 ng/mL should have their PSA levels measured and a prostate examination at 3 to 6 months. Treatment should be withheld in men with a palpable prostate nodule or prostate-specific antigen more than 4 ng/mL and in patients at high risk of prostate malignancy with prostate-specific antigen more than 3 ng/mL.
+
+Testosterone level should be measured midway between injections in testosterone enanthate and testosterone cypionate, and dose and frequency adjustments should be implemented to keep testosterone concentration between 400 ng/dL and 700 ng/dL (Endocrine Society 2010). Serum testosterone level should be measured two to eight hours after application and after fourteen days of starting the therapy or with dose titration in patients using a topical solution of testosterone.
+
+Total serum testosterone should be measured periodically, starting from the first month after initiating therapy in patients using nasal testosterone gel, and treatment should terminate if total testosterone exceeds 1050 ng/dL. Serum testosterone level should be measured approximately 14 days after initiation of therapy, in the morning, before application of transdermal testosterone, at the end of the dosing interval in testosterone pellets, and 4 to 12 weeks after initiation of treatment and before the morning dose in patients using a buccal form of testosterone.[8][9]
+
+There is no question that anabolic steroids do have a clinical role in patients with HIV, liver disease, renal failure, some malignancies, and in burn patients. But today, the problem with these agents is one of misuse. Despite legislation to limit the empirical prescription and dispensing of these agents, these medications continue to be misused by athletes. To prevent anabolic drug abuse, the role of the nurse and pharmacist is critical. Athletes need education about the potential harm from these drugs and that there are very sophisticated methods of detecting them in the blood and urine. Plus, athletes need to know that many anabolic steroids bought online are counterfeit and contain additives that may be toxic. The other problem is addiction to these agents and referral to a mental health counselor. Additionally, the user must understand that the psychoactive effects of anabolic steroids can be deadly, resulting in anger, suicidal thoughts, rage, and extreme violence. Abuse of anabolic steroids is a problem at all levels of schooling and includes both genders. The clinician, physician assistant, nurse, and pharmacist should encourage the cessation of these agents and refer the patient to the appropriate specialist for treatment.[10][11] [Level 3]
+
+Proper therapeutic use and dealing with illegal misuse of anabolic steroids require an interprofessional team effort. In addressing illicit use, all members need to be aware of the signs of steroid misuse and be prepared to counsel as necessary to attempt to resolve the issue. In legitimate therapeutic use, the clinician will prescribe an agent based on clinical need, and the pharmacist can verify appropriate dosing and check for drug interactions. Nursing can provide counsel on administration along with the pharmacist and also monitor for adverse effects on follow-up visits; both pharmacists and nurses need an open communication channel to the prescriber in such instances. These actions show the potential effectiveness of an interprofessional team approach to anabolic steroid use or misuse. [Level 5]
+
+
+Outcomes
+
+
+When used appropriately, anabolic steroids can help with weight gain, but clinicians and the rest of the interprofessional team must monitor the patient for adverse effects. In general, when used for short periods when indicated, anabolic steroids can reverse cachexia in several disorders. At the same time, healthcare workers should be fully aware that these drugs suffer from misuse, and hence close monitoring is necessary.[12][13] [Level 3]
+
+Disclosure: Kavitha Ganesan declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Sajedur Rahman declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Patrick Zito declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

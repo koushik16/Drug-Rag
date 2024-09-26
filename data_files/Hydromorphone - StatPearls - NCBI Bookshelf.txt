@@ -1,0 +1,198 @@
+Title: Hydromorphone - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Karl R. Abi-Aad; Armen Derian.
+
+AuthorsKarl R. Abi-Aad1; Armen Derian2.
+
+Last Update: August 17, 2023.
+
+Hydromorphone belongs to the opioid class of medications and is utilized to effectively manage and treat moderate-to-severe acute pain and severe chronic pain in patients. The drug exerts its analgesic effects by interacting with the mu-opioid receptors. Moreover, hydromorphone also exerts its effects centrally at the medulla level, leading to respiratory depression and cough suppression. This activity reviews hydromorphone's indications, actions, and contraindications as a crucial pain management agent. This activity also highlights the pharmacodynamics, pharmacokinetics, interactions, adverse event profile, potential toxicity, and monitoring recommendations of hydromorphone, which are crucial for healthcare providers to enhance their competence when caring for patients with moderate-to-severe acute pain and severe chronic pain.
+
+
+Objectives:
+Identify appropriate indications for hydromorphone therapy and its usage based on a patient's pain management needs and clinical presentation.Screen patients for contraindications, allergies, potential risks, and drug interactions before prescribing or administering hydromorphone.Apply appropriate strategies for managing potential adverse effects and adjusting hydromorphone dosages based on individual patient characteristics.Collaborate with interprofessional healthcare team members to optimize hydromorphone therapy and monitor for adverse effects, ensuring comprehensive patient care.
+Access free multiple choice questions on this topic.
+
+
+Hydromorphone is a potent opioid medication for managing moderate-to-severe acute and severe chronic pain in patients. Hydromorphone is prescribed only when initial treatments have proven ineffective, primarily due to the drug's elevated potency, potential for abuse, and risk of overdose.[1] Moreover, this medication can also be prescribed off-label for refractory cough suppression.
+
+The use of hydromorphone is limited to individuals who have either poorly tolerated alternative treatment regimens, such as nonopioid analgesics or combinations of opioids, or are anticipated to tolerate them poorly. Moreover, this drug is prescribed only to those without adequate pain relief from other treatment options.
+
+Hydromorphone hydrochloride injection (high potency formulation) is exclusively intended for use in opioid-tolerant patients necessitating elevated opioid dosages to effectively manage severe pain, warranting opioid analgesia or when other available medications prove insufficient.
+
+Opioid-tolerant individuals encompass those who have undergone continuous therapy for a minimum of 1 week and received any of the following treatments: a daily intake of at least 30 mg oral oxycodone, 60 mg oral morphine, 8 mg oral hydromorphone, 60 mg oral hydrocodone, 25 mg oral oxymorphone, a transdermal fentanyl dose of at least 25 mcg/h, or an equivalent analgesic dose of a different opioid, maintained over a week or more.
+
+Individuals must continue their around-the-clock opioid regimen while administering hydromorphone injections (high potency formulation).
+
+Following the Society of Critical Care Medicine guidelines regarding preventing and managing pain, delirium, agitation and sedation, immobility, and sleep disturbances in adult patients admitted to the ICU, hydromorphone is utilized as an off-label medication to address pain and provide sedation for critically ill patients.[2]
+
+Hydromorphone functions as an opioid agonist by binding to various opioid receptors. The analgesic properties of the drug primarily stem from its interaction with the mu-opioid receptors. Moreover, hydromorphone also exerts its effects centrally at the medulla level, leading to respiratory depression and cough suppression.
+
+
+Pharmacokinetics
+
+
+The immediate-release oral formulations of hydromorphone have an onset of action within 15 to 30 minutes, reach peak levels between 30 and 60 minutes, and maintain their effectiveness for 3 to 4 hours. The drug's half-life spans from 2 to 3 hours.
+
+The extended-release formulations of hydromorphone have an onset of action within 6 hours, reach peak levels at 9 hours, and maintain their effectiveness for 13 hours. The drug's half-life typically ranges around 11 hours, although it can vary between 8 and 15 hours.
+
+The volume of distribution of hydromorphone is 4 L/kg, with 8% to 19% of the drug being bound to proteins. Hydromorphone is metabolized in the liver through glucuronidation, with the majority of the drug being transformed into hydromorphone-3-glucuronide.
+
+Hydromorphone is primarily excreted through the urine in its glucuronidated form. The residual unchanged form gets excreted in both the urine (7%) and feces (1%).
+
+Hydromorphone can be administered to patients via intramuscular, intravenous, subcutaneous, rectal, or oral routes.
+
+The medication is injected at a concentration of up to 10 mg/mL for intramuscular, intravenous, or subcutaneous administration.
+
+Patients can take hydromorphone with or without food for oral administration, either in the immediate- or extended-release form. The extended-release form of medication should not be crushed, chewed, or dissolved, as doing so would compromise the extended-release mechanism of the formulation.[3]
+
+The comparison of hydromorphone's equivalence to other opioids will be addressed in a subsequent section of this activity.
+
+
+Available Dosage Forms
+
+
+As observed previously, hydromorphone oral tablets are accessible in both immediate-release and extended-release formulations.
+
+Hydromorphone hydrochloride injection (high potency formulation) should never be administered to opioid-naïve individuals. The minimum effective dose of hydromorphone should be utilized for the shortest duration that aligns with the individual's treatment objectives.
+
+Hydromorphone dosage determination can be very complicated and influenced by numerous factors. Therefore, clinicians should refer to appropriate resources for precise dosing recommendations based on the specific clinical context of using the lowest effective dose for the shortest possible duration. 
+
+
+Discontinuation of Hydromorphone
+
+
+When discontinuing treatment with hydromorphone hydrochloride injection or tablets in a patient who has been receiving the medication regularly and may be physically dependent, it is advisable to gradually reduce the dose by 25% to 50% every 2 to 4 days. This tapering process should be conducted while closely monitoring the patient for any indications of withdrawal symptoms. If the patient displays any withdrawal signs or symptoms, it is recommended to revert to the previous hydromorphone dosage level and implement a more gradual tapering approach for the patient. This can involve extending the time between dose reductions, decreasing the magnitude of dose reduction, or applying both strategies in combination.
+
+
+Specific Patient Populations
+
+
+Hepatic impairment: For patients with hepatic impairment, initiate the treatment with hydromorphone at one-fourth to one-half of the standard starting dosage, depending on the degree of impairment.
+
+Renal impairment: For patients with renal impairment, initiate the treatment with hydromorphone at one-fourth to one-half of the standard hydromorphone starting dosage, depending on the degree of impairment.
+
+Pregnancy considerations: Hydromorphone can traverse the placental barrier.[4] Therefore, extended use of opioid analgesics during pregnancy, whether medically prescribed or not, can induce physical dependence in the neonate, potentially causing neonatal opioid withdrawal syndrome shortly after delivery. Certain studies demonstrate that maternal utilization of opioid medications might be associated with compromised fetal growth, premature delivery, stillbirth, or congenital anomalies, including congenital heart defects, neural tube defects, or gastroschisis.[5]
+
+Breastfeeding considerations: Nonopioid analgesic agents are preferable for breastfeeding women who require pain management medications during the peripartum period and for surgical procedures beyond the postpartum phase.[6]
+
+Older patients: According to the 2019 American Geriatrics Society guidelines and the updated AGS Beers Criteria, hydromorphone is categorized as a potentially inappropriate medication for use in older adults.[7]
+
+Hydromorphone has potential adverse effects on several organ systems, including the integumentary, gastrointestinal, neurologic, cardiovascular, endocrine, and respiratory.[8]
+
+Common adverse effects of hydromorphone include flushing, pruritus, sweating, dry mouth, nausea or vomiting, constipation, asthenia, dizziness, headache, and somnolence.
+
+Severe adverse effects of hydromorphone include hypotension, syncope, adrenal insufficiency, coma, raised intracranial pressure, seizure, suicidal thoughts, apnea, respiratory depression or arrest, drug dependence or withdrawal, and neonatal drug withdrawal syndrome.[8][9]
+
+Hydromorphone is contraindicated in patients with known allergies to the drug itself, sulfites, or any other components of the formulation.
+
+Clinicians must refrain from administering this drug to patients with bronchial asthma or any other respiratory condition displaying clinical respiratory compromise, as it could induce respiratory arrest. In terminal cancer patients, clinicians should not restrain opioid therapy even if signs of respiratory depression become apparent.[10]
+
+Hydromorphone should be avoided in patients with gastrointestinal obstruction or hypomotility, including ileus. Following postoperative ileus, cautious administration of hydromorphone is warranted to mitigate the risk of prolonged ileus.
+
+Hydromorphone should also be avoided in genitourinary obstructions, central nervous system (CNS) depression, hypotension, and hypovolemia. Hydromorphone requires careful administration in cases of concurrent psychiatric illness.
+
+
+Box Warning
+
+
+Addiction, abuse, and misuse are potential risks impacting individuals using hydromorphone. For chronic users, consistent monitoring is essential, accompanied by a well-defined treatment plan detailing the intended duration of use. Patients who no longer need chronic treatment should be weaned off the medication gradually to avoid withdrawal symptoms.
+
+Accidental ingestion or intentional abuse can lead to overdose and potentially life-threatening respiratory depression. Indicative signs include confusion, dizziness, bluish lips and fingernails, cold skin, constricted pupils, and low blood pressure. In cases of a suspected drug overdose, the prompt therapeutic intervention is naloxone, which is administered via intravenous, intramuscular, or subcutaneous routes. The required dosage of naloxone is 0.4 to 2 mg every 2 to 3 minutes when needed, and the dose should not exceed 0.001 mg/kg or 10 mg.
+
+Neonatal withdrawal syndrome can manifest in newborns of mothers who have been using hydromorphone chronically. To mitigate this risk, it is advisable to refrain from prolonged hydromorphone treatment during pregnancy. In situations where neonatal withdrawal syndrome is a potential concern, it is crucial to have appropriate management measures in place, including the proper administration of morphine to the affected neonate.
+
+The potential risk of medication errors is an additional concern, where medical personnel, such as doctors or nurses, may inadvertently administer the patient with an incorrect formulation or dosage of the medication. Therefore, adhering to proper medication checks in accordance with institutional regulations is essential before opioid administration.
+
+Close monitoring of patients for respiratory depression is imperative, especially during the initial 24 to 72 hours of commencing the therapy and subsequent dosage adjustments with hydromorphone. The hydromorphone dosage should be modified accordingly based on the monitoring results. Patients should be regularly assessed for adequate pain relief, blood pressure, mental and respiratory conditions, bowel functionality, indications of hypogonadism or hypoadrenalism, and signs and symptoms of misuse, abuse, and addiction.[8]
+
+As per The American College of Obstetricians and Gynecologists (ACOG) guidelines, breastfeeding mothers who use opioid medications for postpartum pain or chronic maternal pain management should vigilantly observe their infants for signs of feeding difficulties, drowsiness, sedation, or limpness.[11]
+
+
+Drug-Drug Interactions
+
+
+Naltrexone and nalmefene are opioid receptor antagonists that can trigger withdrawal symptoms when used with hydromorphone and diminish its analgesic effect.
+
+Administering hydromorphone to patients concurrently taking safinamide (a monoamine oxidase inhibitor) can potentially trigger serotonin syndrome, demanding careful dosing consideration. Hydromorphone also requires careful administration in patients taking selective serotonin reuptake inhibitors or tricyclic antidepressants due to the potential risk of serotonin syndrome.
+
+Concurrent use of hydromorphone with other CNS depressants, including benzodiazepine and barbiturates, can induce severe respiratory and CNS depression. As a result, it is essential to consider alternative analgesic agents in such cases.
+
+
+Clinical Studies
+
+
+In a meta-analysis conducted by Bao et al. [10], which compared the effect of hydromorphone to codeine and morphine, the data obtained from 504 oncology patients were analyzed. The study found no substantial difference among the 3 groups concerning the safety profile and effectiveness of the drugs. Likewise, in the EXHEAL trial, Inoue et al. [12] compared the effect of extended-release hydromorphone with extended-release oxycodone in cancer patients. The efficacy of both drugs was found to be equivalent, and they exhibited similar rates of adverse events.
+
+Moreover, hydromorphone pumps have been investigated for intrathecal administration with patient-controlled systems. Hayek et al. [13] conducted a retrospective analysis involving 57 patients with post-laminectomy syndrome treated using patient-controlled intrathecal hydromorphone and bupivacaine. The study presented data spanning a duration of 24 months. Notably, there was an observable reduction in the average pain score, accompanied by a gradual escalation in the hydromorphone dose, reaching up to 487 mcg per day. The complication report yielded less favorable outcomes than the observed decreased pain scores. A total of 51% of patients required a pump program, while the infection rate was 5.8%. Additional research is necessary to comprehensively assess the effectiveness and safety of patient-controlled intrathecal hydromorphone pumps.
+
+Hydromorphone is a fast-acting, potent opioid used for acute and chronic pain management. The drug can be substituted with other opioids and adheres to a distinct conversion scale. Hydromorphone is offered in various formulations, including injections, rectal suppositories, and oral forms, available in both immediate- and extended-release variants.[12] Owing to the risk profile, the prescription and administration of the drug require meticulous attention, along with a comprehensive understanding of its potential adverse effects and interactions.
+
+Addressing life-threatening situations promptly is crucial, as respiratory depression caused by a drug overdose can result in fatalities. Furthermore, hydromorphone is a subject of interest in intrathecal pump research, which may have a promising role in refractory pain.
+
+The U.S. Food and Drug Administration (FDA) mandates an Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) for hydromorphone. This initiative ensures that the benefits of opioid analgesics surpass the risks associated with addiction, abuse, and drug misuse. A team of interprofessional healthcare members comprising physicians, oncologists, pain specialists, advanced practice practitioners, nursing staff, and pharmacists can prescribe hydromorphone to patients. All parties must reach a consensus on the medication's prescription and dosage while acknowledging the potential adverse events associated with this treatment. At any given time, team members should be capable of recognizing indications of hydromorphone toxicity and promptly providing the necessary treatment to patients. If medication dependence arises and hydromorphone is no longer warranted, a psychologist should be consulted, as the gravity of hydromorphone addiction can result in drug overdoses and potentially fatal outcomes.
+
+In cases of hydromorphone overdose, the involvement of a toxicologist and nephrologist is crucial, as treatment strategies beyond naloxone might be necessary, depending on serum and urine drug levels and symptomatic presentation. The intensive care unit should also participate in the process, as toxicity management is required to ensure hemodynamic stability and adequate respiratory response.
+
+The nursing staff plays a pivotal role in monitoring the adverse effects and toxicity of the drug, which is a vital responsibility while working with a potent opioid such as hydromorphone. Therefore, physicians should be promptly communicated in case of any concerns. A pharmacist must be involved throughout the entire spectrum of hydromorphone therapy, irrespective of the administration method. Their role encompasses verifying drug dosages, conducting medication reconciliation to avert potential drug interactions, and supporting the physician in transitioning to alternative agents or facilitating the patient's gradual reduction from opioid analgesia.
+
+Given the current opioid crisis, a pharmacist's role is crucial, as they collaborate and work closely with nurses and physicians within the interprofessional team to provide optimum patient care. Effective opioid pain management necessitates collaboration and shared decision-making among all interprofessional healthcare team members to ensure optimal pain control while upholding patient safety.
+
+Disclosure: Karl Abi-Aad declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Armen Derian declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

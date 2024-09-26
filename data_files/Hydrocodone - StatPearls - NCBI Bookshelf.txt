@@ -1,0 +1,192 @@
+Title: Hydrocodone - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Sean Cofano; Preeti Patel; Robert Yellon.
+
+AuthorsSean Cofano1; Preeti Patel; Robert Yellon2.
+
+Last Update: February 29, 2024.
+
+Hydrocodone is a semi-synthetic opioid medication that is classified as a schedule II drug. This medication is approved by the U.S. Food and Drug Administration (FDA) and used for pain management. Hydrocodone is primarily used to treat severe chronic pain that requires opioid analgesia and is not effectively treated by nonopioid alternatives. Hydrocodone is used in combination formulations to treat nonproductive cough in adults and has antitussive properties. Hydrocodone functions as an opioid receptor agonist and activates mu-opioid receptors to produce analgesic effects. In addition, hydrocodone activates delta- and kappa-opioid receptors as the plasma drug concentration increases beyond the starting doses.
+
+This activity outlines the indications, mechanism of action, significant adverse effects, contraindications, monitoring, and toxicity of hydrocodone in the clinical setting pertaining to pain relief. An interprofessional team comprising emergency medicine, critical care, and primary care would enhance the outcomes of patients with pain, related conditions, and sequelae. Given the opioid misuse epidemic in the United States, the emphasis on patient-centered care is important.
+
+
+Objectives:
+Identify appropriate indications for hydrocodone, distinguishing use in severe chronic pain and nonproductive cough in adults.Assess patients for pain relief while monitoring both the effectiveness of hydrocodone and any potential adverse effects, signs of misuse, or addiction.Select the most appropriate formulation and strength of hydrocodone based on the pain intensity, duration, and individual needs, considering factors such as age, renal or hepatic impairment, and potential drug interactions.Collaborate with an interprofessional healthcare team to optimize comprehensive care in patients undergoing hydrocodone therapy.
+Access free multiple choice questions on this topic.
+
+
+Hydrocodone is a semi-synthetic opioid medication that is classified as a schedule II drug. Prescribing clinicians should not use Hydrocodone as an "as-needed (PRN)" opioid analgesic.[1] Hydrocodone is used in combination formulations to treat nonproductive cough in adults and has antitussive properties. In January 2018, the FDA mandated safety labeling changes for prescription cough and cold medications containing hydrocodone or codeine, restricting their usage to individuals aged 18 and older.[2] 
+
+
+FDA-Approved Indications
+
+
+Hydrocodone works by several steps to provide its mechanism of action:
+
+
+Pharmacokinetics
+
+
+Absorption: After a single oral ingestion, immediate-release (IR) hydrocodone reaches maximum serum concentrations within 1 hour. In contrast, after oral administration, the time for extended-release (ER) hydrocodone to reach peak plasma concentration (Tmax) varies among doses, ranging from 6 to 30 hours.[4]
+
+Distribution: The apparent volume of distribution after hydrocodone ER administration is 402 L for an adult with a body weight of 70 kg, indicating extensive tissue distribution.[10]
+
+Metabolism: Hydrocodone undergoes primary liver metabolism mediated by the cytochrome P450 enzymes, CYP2D6 and CYP3A4. As a prodrug, hydrocodone transforms into its potent active metabolite, hydromorphone, through O-demethylation catalyzed by the CYP2D6 enzyme. Studies have shown that pain relief correlates with plasma concentrations of hydromorphone rather than hydrocodone. In addition, hydrocodone undergoes metabolism to norhydrocodone, an inactive metabolite primarily mediated by CYP3A4.[11] Genetic polymorphisms in CYP2D6 metabolism result in significant variations in plasma hydrocodone concentrations from a standard dose.
+
+Elimination: The half-life of hydrocodone IR is approximately 4 hours, whereas, for hydrocodone ER, the half-life is 7 to 9 hours. The renal route primarily excretes hydrocodone and its metabolites.[12]
+
+
+Available Dosage Forms and Strengths
+
+
+Hydrocodone is available in oral forms, 12 hours of ER capsules of 10, 15, 20, 30, 40, and 50 mg, and 24 hours of ER abuse-deterrent tablets of 20, 30, 40, 60, 80, 100, and 120 mg strength. Notably, hydrocodone should not be crushed, chewed, or dissolved as tablets and capsules to prevent uncontrolled and rapid medication delivery, which could result in an overdose.
+
+
+Adult Dosage
+
+
+IR hydrocodone is found in combination products, often paired with acetaminophen or ibuprofen. Dosages for hydrocodone IR combination products typically range from 2.5 to 10 mg, to be taken every 4 to 6 hours as needed. In formulations combining hydrocodone with acetaminophen, it is crucial to ensure that the total acetaminophen dosage does not exceed 4 g/d to prevent liver toxicity.[13][14]
+
+Single-entity hydrocodone is only available in ER formulations in both tablet and capsule forms. For opioid-naïve or opioid-intolerant patients, hydrocodone ER is typically initiated at a dosage of 10 to 20 mg administered every 12 to 24 hours, depending on the specific formulation. Furthermore, slower dose titration is advised for patients aged 65 and older. The manufacturer's drug monographs should be referred for comprehensive dosing and titration schedules. Patients should be advised to cease all other opioid medications when initiating hydrocodone ER unless explicitly directed by a clinician.
+
+
+Specific Patient Populations
+
+
+Hepatic impairment: For patients with severe hepatic impairment, clinicians should commence hydrocodone therapy at 50% of the initial dose.
+
+Renal impairment: A study revealed that systemic exposure to hydrocodone (AUC) was 70% higher in patients with moderate-to-severe renal impairment compared to patients with normal renal function.[15] According to prescriber information, hydrocodone therapy should be initiated with 50% of the initial dose in patients with end-stage renal disease (ESRD).
+
+Pregnancy considerations: Although hydrocodone use is not contraindicated in pregnancy, it carries a US FDA-box warning due to opioids crossing the placenta. Prolonged use during pregnancy may result in neonatal opioid withdrawal syndrome (NOWS). Patients using hydrocodone should undergo counseling on the associated risks during pregnancy, and such information should be documented in the medical record.[16]
+
+Per the guidelines of the American College of Obstetricians and Gynecologists (ACOG), if opioid use is deemed necessary during labor, preference is given to short-acting agents that are easily titratable and associated with a reduced risk of respiratory depression in the newborn. In the United States, commonly used opioids for peripartum analgesia include fentanyl, remifentanil, morphine, butorphanol, and nalbuphine. Remifentanil, an ultrashort-acting opioid, is administered intravenously (IV) through patient-controlled analgesia, offering enhanced pain relief during labor. Given the risk of apneic episodes, it is crucial to implement appropriate respiratory monitoring.[17]
+
+Breastfeeding considerations: Maternal hydrocodone use during breastfeeding can lead to neonatal drowsiness, depression of the CNS, and, in severe cases, pose a risk of newborn death. Small doses of opioids can harm infants, so the maximum daily dosage should not exceed 30 mg. The patient should contact the clinician immediately if the infant exhibits increased drowsiness (more than usual) and difficulties in breastfeeding and breathing. Non-narcotic analgesics are preferred during breastfeeding.[18]
+
+Pharmacogenomic considerations: Genetic polymorphisms in the CYP2D6 enzyme may lead to important variations in plasma concentrations of hydrocodone metabolites. Hydrocodone, as a prodrug, undergoes conversion to hydromorphone—a highly potent active opioid metabolite—through hepatic CYP2D6 activity during its metabolism. Hydromorphone, with a 100-fold higher affinity for mu-opioid receptors than hydrocodone, is considered the primary metabolite responsible for the analgesic effects in hydrocodone therapy. Genetic variations in the highly polymorphic CYP2D6 enzyme include ultra-rapid, rapid, extensive, normal, intermediate, and poor metabolizer phenotypes.
+
+Individuals exhibiting a poor metabolizer CYP2D6 phenotype have demonstrated significantly reduced hydromorphone plasma concentrations during hydrocodone therapy compared to those with normal metabolizing CYP2D6 phenotypes.[19] Interestingly, despite variations in hydromorphone metabolite plasma concentrations, metabolizer status does not impact the clinical response to hydrocodone. Patients with an extensive-metabolizing CYP2D6 phenotype have shown higher levels of hydromorphone during hydrocodone metabolism compared to poor metabolizers.[4] However, the existing data does not advocate for adjusted hydrocodone dosing recommendations for patients with known CYP2D6 polymorphisms.
+
+The only current recommendation for modifying hydrocodone therapy based on CYP2D6 phenotype applies to patients with identified intermediate and poor metabolizing CYP2D6 phenotypes. For these individuals, adherence to hydrocodone label-recommended age or weight-specific dosing is advised. If the patient exhibits an inadequate response to treatment and opioid therapy is deemed necessary, clinicians should contemplate transitioning to an opioid not metabolized by CYP2D6 into more active substrates, such as a non-codeine or non-tramadol opioid.[20] Examples of opioids not metabolized by the CYP2D6 enzyme comprise hydromorphone, oxymorphone, fentanyl, remifentanil, buprenorphine, and levorphanol.[21]
+
+In addition to CYP2D6, polymorphisms in other genes and enzymes influencing the pharmacodynamics of hydrocodone may modify the therapeutic response. Examples include genetic variants in opioid receptors (OPRM1) and enzymes associated with the pain perception pathway, such as catechol-O-methyltransferase (COMT). However, insufficient evidence supports an altered analgesic response or dosing recommendations for such variants.[19] This concept illustrates the complexity of genetic polymorphisms and the clinical implications associated with opioid therapy. A monitored setting is recommended for high-risk patients starting opioid therapy or undergoing dosage escalation. 
+
+The most common adverse effects of hydrocodone include frequent constipation and nausea. Additional adverse effects of hydrocodone include the following:
+
+
+Drug-Drug Interactions
+
+
+
+Warnings and Precautions
+
+
+
+Boxed Warning
+
+
+
+Legal Considerations
+
+
+Owing to widespread abuse and misuse concerns, the Drug Enforcement Agency (DEA) reclassified hydrocodone combination products from schedule III to schedule II drugs in October 2014. A study indicates that this rescheduling is associated with a substantial decrease in hydrocodone overdose rates.[34]
+
+
+Medical Assessment
+
+
+
+Prevention of Medical Errors
+
+
+Hydrocodone may be mistaken for oxycodone. To prevent prescribing errors, the Institute of Safe Medical Practices (ISMP) recommends using Tallman lettering (oxyCODONE/HYDROcodone).[38]
+
+
+Signs and Symptoms of Overdose
+
+
+The signs and symptoms of hydrocodone toxicity include apnea, breathing difficulties, bradycardia, miosis, clammy skin, cyanosis, hypotension, decreased level of consciousness, and loss of consciousness. Overdose-related pulmonary complications include noncardiogenic pulmonary edema and aspiration pneumonitis. Central respiratory depression leading to CO2 retention often results in respiratory acidosis. 
+
+
+Management of Overdose
+
+
+The antidote for overdose is an opioid antagonist medication. Clinicians should administer IV naloxone for hydrocodone overdose. Naloxone can be administered through IV, intramuscular (IM), intranasal, subcutaneous (SC), and endotracheal routes. Patients with low respiratory rates or apnea should receive an initial dose of 0.4 to 2 mg of naloxone. For patients who develop respiratory failure, administration of 2 mg of naloxone is recommended. Naloxone dosing may be repeated every 2 to 3 minutes, depending on the clinical response. If the patient shows signs of opioid withdrawal, the naloxone infusion should be discontinued.[39]
+
+Opioid receptors are G-protein-coupled receptors. Agonist stimulation inhibits cAMP formation, inhibiting the release of nociceptive neurotransmitters, postsynaptic neuronal hyperpolarization, and reduced neuronal excitability.[5][6][7] Naloxone, a highly competitive mu-receptor antagonist, reverses the inhibition of cAMP formation and nociceptive neurotransmitter release and reverses postsynaptic neuronal hyperpolarization, reducing neuronal excitability. This reversal extends to clinical signs and symptoms of opioid toxicity, including respiratory depression and decreased level of consciousness.
+
+The indication for airway management is severe respiratory depression or apnea secondary to hydrocodone toxicity. In acute respiratory distress syndrome cases, management involves ensuring adequate oxygenation, utilizing low tidal volume ventilation, and applying high positive end-expiratory pressure (PEEP). Caution is essential to prevent ventilator-induced lung injury.[40] Patients who have taken ER preparations require prolonged monitoring after the reversal, as delayed absorption of hydrocodone is possible. Emergency department clinicians should refer stabilized patients to psychiatric evaluation.
+
+The FDA has approved hydrocodone formulations with abuse-deterrent properties. These formulations deter misuse by preventing chewing, injecting, or snorting.[41] Hydrocodone can cause life-threatening secondary adrenal insufficiency, which requires immediate corticosteroid replacement.[28]
+
+The optimal strategy involves an interprofessional approach to prescribing and administering hydrocodone. Healthcare professionals should be knowledgeable about the appropriate indications, adverse drug reactions, and toxicity management to ensure optimal patient outcomes for hydrocodone therapy. In September 2018, the FDA mandated the Risk Evaluation and Mitigation Strategy (REMS) training program for all drug company personnel involved with approved opioid analgesics to mitigate the abuse and misuse of opioid analgesics, including hydrocodone. This program requires all clinicians, including physicians, mid-level practitioners, nurses, and pharmacists responsible for pain management in patients, to undergo training on the fundamentals of acute and chronic pain management and the safe use and risks of opioids.[42]
+
+The American Geriatrics Society (AGS) Beers Criteria highlights potentially inappropriate medications for geriatric patients. According to a study, hydrocodone/acetaminophen was among the most frequently prescribed medications associated with emergency room visits.[43][44] Ideally, clinicians should prescribe hydrocodone for appropriate indications, carefully weighing therapy's associated risks and benefits. Furthermore, they should routinely monitor the necessity for hydrocodone at each visit and assess for any aberrant behavior. When prescribing hydrocodone for cough, clinicians should thoroughly investigate and rule out conditions such as gastroesophageal reflux disease (GERD) and other disorders that may contribute to coughing.[45]
+
+The Prescription Drug Monitoring Program (PDMP) is an electronic database tracking controlled substance prescriptions. Clinicians should consult the database before prescribing hydrocodone to prevent multiple refills. Notably, information regarding methadone from opiate treatment programs is not accessible in the PDMP.[46] In addition, pharmacists should counsel patients regarding the adverse drug reactions associated with hydrocodone therapy and ensure proper dosing, considering hepatic and renal function. Pharmacists should communicate with the prescribing clinician if any uncertainties arise, such as requests for early refills. Similarly, nurses should assess pain levels during each visit, evaluate the effectiveness of treatment, and remain vigilant for signs of adverse events or misuse.
+
+In the case of a hydrocodone overdose, triage nurses should admit the patient and promptly inform the emergency department clinician. The clinician should order urine drug levels, analyze arterial blood gases, monitor the patient for respiratory depression, and consider naloxone or activated charcoal therapy as indicated. Patients experiencing severe respiratory depression and paralytic ileus may necessitate intensive care unit (ICU) care. When the patient stabilizes, they can be referred to a psychiatrist and/or mental health counselor, especially if the overdose is deliberate.[47] The clinician should refer the patient for detoxification upon diagnosing opioid use disorder. Subsequent referral for medication-assisted treatment (MAT) and psychosocial treatment is essential to prevent relapse.[48]
+
+Multiple clinicians are usually involved in patient care. Therefore, collaborative efforts are necessary to achieve optimal outcomes. An interprofessional team approach, characterized by open communication and shared decision-making, will optimize therapeutic efficacy and minimize adverse drug reactions associated with hydrocodone therapy, enhancing patient outcomes. 
+
+Disclosure: Sean Cofano declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Preeti Patel declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Robert Yellon declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

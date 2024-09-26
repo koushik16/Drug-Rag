@@ -1,0 +1,112 @@
+Title: Amphetamine - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Dustin Martin; Jacqueline K. Le.
+
+AuthorsDustin Martin1; Jacqueline K. Le2.
+
+Last Update: July 31, 2023.
+
+Amphetamine is a medication used in the management and treatment of ADHD and narcolepsy. It is classified as a central nervous system stimulant. This activity reviews the indications, action, and contraindications for amphetamine as an agent in treating ADHD and narcolepsy. This activity will highlight the mechanism of action, adverse effect profile, and other key factors (e.g., dosing, monitoring, toxicity) pertinent for members of the interprofessional team in the treatment of patients with ADHD and narcolepsy.
+
+
+Objectives:
+Explain the mechanism of action of amphetamine.Describe the potential adverse effects of amphetamine.Identify signs and symptoms of amphetamine toxicity.Review the importance of collaboration and communication amongst the interdisciplinary team to properly monitor for adverse effects in patients receiving amphetamine treatment.
+Access free multiple choice questions on this topic.
+
+
+Amphetamine is FDA-approved for the treatment of attention-deficit/hyperactivity disorder (ADHD) and narcolepsy. It has indications as a first-line agent for ADHD in adults and children six years of age and older. Amphetamine is also a second-line agent for the treatment of narcolepsy. Lisdexamfetamine, a long-acting amphetamine medication, is FDA-approved for the treatment of a binge-eating disorder. 
+
+The amphetamine molecule contains one chiral center and exists as two enantiomers: dextroamphetamine (d-amphetamine) and levoamphetamine (l-amphetamine). The term “amphetamine” properly refers to a racemic mixture of equal parts d-amphetamine and l-amphetamine. However, most currently used amphetamine medications contain the d-isomer predominantly or exclusively as it is more potent and more clinically effective than the l-isomer.[1]
+
+Common amphetamine medications that are currently in use in the United States include[2]: 
+
+Amphetamines are controlled substances in the USA with the C-II designation.
+
+Amphetamine is a central nervous (CNS) system stimulant that functions by increasing the amounts of dopamine, norepinephrine, and serotonin (to a lesser extent) in the synaptic cleft through a variety of mechanisms. Amphetamine enters the presynaptic axon terminal through diffusion or uptake by the monoamine transporters DAT, NET, and SERT. Once inside the presynaptic terminal, amphetamine increases the amounts of monoamine neurotransmitters in the cytosol through the inhibition of vesicular monoamine transporter 2 (VMAT2) as well as through disruption of the electrochemical gradients necessary for vesicular transporter function.
+
+Amphetamine also inhibits the metabolism of monoamine neurotransmitters by inhibiting monoamine oxidase (MAO). At the same time, amphetamine stimulates the intracellular receptor TAAR1, which induces internalization or transporter reversal of DAT. The effects of TAAR1 on DAT may also extend to NET and SERT, although co-localization of TAAR1 with these two transporters has only been indirectly evidenced in studies thus far. The net result of this activity is increased efflux of dopamine into the synaptic cleft and reuptake inhibition in the synaptic cleft through DAT internalization and direct competition.[3][4]
+
+The choice of agent for initial therapy is based on cost, patient preference, and concern for abuse. Dextroamphetamine is the only amphetamine medication FDA-approved for use in children younger than six years, but most current guidelines recommend behavioral therapy alone in preschool-aged children with ADHD symptoms.[5] Dextroamphetamine is available in the form of immediate-release tablets, extended-release capsules, and an oral solution. MAS is available as immediate-release tablets or extended-release capsules. Immediate-release formulations may be preferred initially to establish an optimal daily dose, with conversion to an extended-release formulation thereafter. Extended-release formulations are intended for once-daily dosing, but they may require concomitant use of an immediate-release medication as the clinical effect wears off in the afternoon.[6] Patients with narcolepsy generally benefit from divided doses and may require an early afternoon dose to control daytime sleepiness.
+
+Dosages usually range from 5 mg to 40 mg daily and should not exceed 60 mg, which is the maximum dose for certain adults.[7] Dosing by indication is as follows:
+
+Lisdexamfetamine may be preferred if there is increased concern for misuse by the patient or a household member, as its chemically-phased release allows for once-daily dosing and may theoretically deter abuse. Lisdexamfetamine is available as capsules or chewable tablets, and typical daily dosages range from 20 mg to 70 mg.
+
+Reports exist of slowing growth velocity and reduction in adult height in patients who took stimulants as children, with an average adult height deficit of 4.7 cm among patients who consistently took the medication. This stunted growth appears to be primarily a consequence of reduced appetite and caloric intake associated with stimulant medications.[8][9]
+
+The association between amphetamine and severe cardiovascular events is controversial. There have been reports of severe cardiovascular events such as myocardial infarction and sudden cardiac death in patients (including children) treated with stimulants. These reports led to the temporary suspension of marketing for extended-release MAS in Canada in 2005 and proposals for an FDA boxed warning in the United States. Some reported cases involved patients with underlying structural cardiovascular abnormalities and/or patients who took supratherapeutic doses of the medication.[10] Several large follow-up studies have failed to demonstrate an increased risk of severe cardiovascular events in patients treated with stimulant medications.[11][12]
+
+The use of amphetamine with other serotonergic agents and/or CYP2D6 inhibitors (including fluoxetine, paroxetine, and bupropion) can increase the risk of serotonin syndrome. Amphetamine should be started cautiously in patients taking these medications, with close monitoring for signs and symptoms of serotonin syndrome. 
+
+Other common side effects of amphetamine include insomnia, headache, dry mouth, tachycardia, increase in systolic blood pressure, restlessness, and irritability. 
+
+Amphetamine is contraindicated in patients with hypersensitivity to any component of the drug formulation. Amphetamine is also contraindicated during or within 14 days of MAOI therapy, e.g., phenelzine, due to the risk of hypertensive crisis.[13] Additional contraindications include symptomatic cardiovascular disease, advanced arteriosclerosis, glaucoma, hyperthyroidism, severe hypertension, agitated states, and a history of drug misuse.
+
+Cardiac status should have an assessment before initiating therapy in patients with known cardiac abnormalities. Patients with exertional chest pain, shortness of breath, pathologic heart murmurs, or any other signs and symptoms suggestive of cardiac disease should undergo full cardiac assessment, as should any patients with a family history of cardiomyopathy, arrhythmias, or ECG abnormalities such as long QT syndrome. If a baseline ECG reveals a concern, amphetamine should be prescribed with caution after a cardiology referral. Cardiac monitoring should occur on at least an annual basis, and concerning signs include pulse or blood pressure >95th percentile for age and the presence of any cardiovascular symptoms. Growth parameters require monitoring for pediatric patients.[14] Clinicians should also monitor for signs of abuse, diversion, and addiction in all patients.
+
+Due to their ability to produce powerful euphoric effects, amphetamines are common drugs of abuse. All major drugs of abuse increase dopamine concentrations in the mesolimbic pathway, but amphetamines, because of their direct effects on DAT and VMAT2, can increase dopamine concentrations far beyond the concentrations seen for natural rewarding stimuli. Chronic exposure to amphetamine, particularly methamphetamine, at recreational doses has shown to destroy dopaminergic terminals in the striatum through a variety of mechanisms, including oxidative stress and excitotoxicity. The resultant blunting of the physiological dopamine response can further potentiate abuse.[15][16]
+
+Common signs and symptoms of acute amphetamine intoxication include hypertension, tachycardia, tachypnea, hyperthermia, mydriasis, tremors, agitation, and psychosis. The presentation can be highly variable depending on the amphetamine analog used as well as the simultaneous use of other substances. Dextroamphetamine and methamphetamine have a higher affinity for DAT, and intoxication can cause psychiatric disturbances resembling a manic episode or an acute psychotic break. Other illicit amphetamine analogs such as MDMA have a higher affinity for NET and SERT and are potentially more likely to cause hyperthermia, serotonin syndrome, and rhabdomyolysis. The risk of hyperthermia and rhabdomyolysis may become compounded by the association of MDMA use in dance clubs.[15][17]
+
+Management of amphetamine intoxication generally involves the use of benzodiazepines and antipsychotics to control agitation and psychotic symptoms. Beta-blockers can also help to control hypertension and tachycardia. Intravenous nitrates may be necessary in cases of severe hypertension. Severely agitated patients may require paralysis and intubation, and hyperthermia is manageable with ice packs and evaporative cooling techniques.[18]
+
+Amphetamine has high misuse/abuse potential. All interprofessional team members (clinicians, nurses, pharmacists, behavioral therapists) involved in the care of a patient taking amphetamines should monitor closely for signs of medication misuse. As a schedule II controlled substance, there are no refills for amphetamine, which may necessitate monthly appointments with the prescribing physician. A cardiologist consult may be necessary for evaluating patients with potential cardiac concerns before the initiation of amphetamines. A pediatrician should monitor growth charts for children taking these medications. Pharmacists should monitor prescribing patterns and warn clinicians of potential doctor shopping". Nursing staff can counsel the patient on proper dosing and administration, warn about side effects, and answer patient questions, which the pharmacist can also reinforce. Interprofessional coordination and open information sharing will optimize amphetamine therapy for those patients who need it, prevent drug abuse and misuse, and prevent adverse outcomes. [Level 5]
+
+Disclosure: Dustin Martin declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Jacqueline Le declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

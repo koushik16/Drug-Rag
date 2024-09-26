@@ -1,0 +1,126 @@
+Title: Heroin Toxicity - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Robert C. Oelhaf; Mohammadreza Azadfard.
+
+AuthorsRobert C. Oelhaf1; Mohammadreza Azadfard2.
+
+Last Update: May 8, 2023.
+
+Heroin, also known as diacetylmorphine, is a very efficient prodrug and more potent than morphine. Many deaths are caused by heroin overdoses throughout the world each year. Heroin, which can be sniffed, smoked, or injected, is experiencing a rebound in usage, partially related to the efforts to reduce the abuse of prescription pain relievers. With increased usage, there has been a corresponding increase in overdose-related deaths. Heroin is one of the most commonly used drugs among those who misuse intravenous drugs. This activity reviews the etiology, presentation, evaluation, and management/prevention of heroin toxicity and reviews the role of the interprofessional team in evaluating, diagnosing, and managing the condition.
+
+
+Objectives:
+Describe the basic pharmacology of heroin in the human body.Review the signs and symptoms expected on examination and evaluation of a patient with suspected heroin toxicity.Outline the management options available for both acute heroin toxicity and long-term management following recovery from heroin toxicity.Explain possible interprofessional team strategies for improving care coordination and communication to advance the evaluation and treatment of heroin toxicity and improve outcomes.
+Access free multiple choice questions on this topic.
+
+
+Heroin, also known as diacetylmorphine, is a very efficient prodrug and more potent than morphine. Many deaths are caused by heroin overdoses throughout the world each year. Heroin, which can be sniffed, smoked, or injected, is experiencing a rebound in usage, partially related to the efforts to reduce the abuse of prescription pain relievers. With increased usage, there has been a corresponding increase in overdose-related deaths.[1] For heroin-related death rates, 14 states in the USA had significant increases, with Washington D.C., West Virginia, and Ohio having the highest rates.[2] 
+
+Heroin is one of the most commonly used drugs among intravenous drug abusers. Conventionally, chemical compounds that are fractionated from the juice of the opium poppy (Papaver somniferum) are known as opiates. Similarly, acting synthetic chemical compounds are known as opioids. The predominant opiate is found in opium poppy juice. The juice of the opium poppy is harvested, which contains a variety of opiates, mostly morphine. Additional processing is necessary to refine the opium poppy liquid into heroin. Heroin is synthesized from morphine by acetylation at both 3 and 6 positions and metabolized in the human body to active opioid compounds first by deacetylation to 6 mono acetyl morphine (6MAM) and then by further deacetylation to morphine. Heroin is smaller per dose, making it the version of the product preferred by drug smugglers.[3]
+
+Heroin is usually used as an illegal drug. In rare settings, heroin is prescribed by doctors for pain control. Heroin given intramuscularly is about two times as potent for pain relief. Heroin is not allowed to be prescribed by doctors in the United States, but prescription heroin is available in rare settings in other countries. Heroin has an average half-life of three minutes in blood after intravenous administration, but the half-life of 6-acetyl morphine in humans is about 30 minutes. Heroin's peak blood level happens after 5 minutes of usage intranasally or intravenously, but its potency after intranasal usage is about half of intravenous usage.[4]
+
+Because of various economic and social factors, heroin is one of the most commonly abused opioids in the world today. In 2012, annual prevalence rates for heroin use without a needle were 0.3% for 8th-grade students and 0.4 percent for 10th and 12th-grade students. For all grades, the annual prevalence of use of heroin with a needle was 0.4%. Heroin-related emergency department visits had increased from 33,900 in 1990  to 213,118 in 2009. Heroin-related overdose deaths increased from 2300 in 1991 to 15.958 in 2017. There was a 7 fold increase in the total number of heroin overdose deaths in this period.[5][6]
+
+The most recent classification scheme identifies three major classes of opioid receptors, with several minor classes. The three most clinically relevant opioid receptors are the mu, kappa, and delta receptors. Stimulation of central mu receptors causes respiratory depression, analgesia (supraspinal and peripheral), and euphoria. Kappa and delta-opioid receptors also have potent analgesic effects, with the kappa receptors being known for causing disassociation, hallucinations, and dysphoria. Delta receptors also modulate mu receptors and are thought to influence mood. Heroin has effects on the opioid receptors, particularly the mu receptor. It also has effects on the kappa and delta receptors. There is an evolving body of knowledge that the intensity and quality of response to heroin and other opioids can vary significantly between patients, which can be unrelated to tolerance.[7][8]
+
+When a patient has hypoxic tissue injury secondary to an overdose of heroin, the tissues show usual signs of hypoxic change at the microscopic level. In the setting of overdose death, this can include signs of pulmonary edema in lung tissue sections and rhabdomyolysis, including myocardial injury.[9][10] In the setting of endocarditis, septic emboli can travel to diverse regions of the body and cause typical pathologic/microbiologic changes.[11]
+
+Heroin is a strong agonist of opioid receptors. As mentioned, heroin has a short half-life, requiring drug users to use it several times per day to maintain the effect. Additionally, tolerance usually develops over time, requiring consumers to take stronger and stronger doses to get the same effect. Tolerance to respiratory depression may be slower than tolerance to euphoric effects. The level of tolerance to opioids can have significant effects on an individual's risk of opioid overdose. Overdose is common as a consumer rarely knows how much they are taking per purchased dose. Also, in street drugs, there are often contaminants that dilute the percentage of the drug consumed.[12]
+
+Heroin's half-life is so short that consumers are usually seen medically in the setting of either overdose or withdrawal. In the overdose setting, there is usually decreased respiratory effort and rate, with sedation and constricted pupils. A severe overdose can progress to apnea with coma, which is followed by minutes by cardiac arrest and death unless immediate rescue measures are taken.[13] Heroin withdrawal is often associated with alertness, muscle pain, dilated pupils, piloerection, sweating, intestinal distress (like vomiting and diarrhea), joint pain, insomnia, and yawning.
+
+Opiate withdrawal symptoms are not life-threatening, like alcohol or benzodiazepine withdrawal. Some or all of these symptoms may be seen; the patient does not need all to be diagnosed with heroin withdrawal. In summary, several medications can be used to treat opiate withdrawal symptoms, like methadone (long-acting opioid), buprenorphine (partial mu agonist and kappa antagonist), or alpha-2 adrenergic agents (clonidine and lofexidine).[14] If there is intravenous use, there can be "track marks." These are very small abrasion-type skin changes overlying veins, usually in the extremities, but infrequently can also be found in the neck and other anatomic locations.
+
+Intravenous drug use can lead to infectious complications discussed elsewhere (such as cellulitis, thrombophlebitis, endocarditis, septic emboli, and compartment syndrome, for example). Adulterants in heroin can be quite diverse and sometimes unknown to the consumer and can confound the evaluator by giving a potentially very broad spectrum of conflicting physical exam findings. Law enforcement may have knowledge of the current adulterant blend of the heroin that is being locally consumed at the time of the encounter.[15]
+
+The evaluation is clinical, with prioritization of the airway and breathing in the overdose setting. Urine drug screening is thought to not be useful in the acute setting but has value in surveillance (employment screening) or recovery (drug rehab) settings. On urine drug testing, heroin makes the "opioids" line positive, along with morphine, codeine, hydromorphone, and hydrocodone. Other opioids usually do not turn this test positive and need to be tested for separately, including methadone, oxycodone, fentanyl, buprenorphine, and tramadol. Bedside and office urine cup drug screens have (infrequent) false positive and false negative results for a variety of substances tested for. The only finding in the urine that proves heroin use is the detection of 6-MAM (6 mono acetylmorphine). This metabolite is a specific byproduct of heroin metabolism. 6-MAM is eliminated in the urine quickly and is detected for less than 8 hours after heroin abuse.[16] 
+
+Gas chromatography and mass spectroscopy (GCMS) testing can be used for a definitive answer if there is a conflict between the patient and the provider regarding the truth or falsehood of the urine drug test result. Medical review officers control the information obtained during employment-related drug testing in the United States.[17]
+
+In the heroin overdose setting, hypopnea (breathing ineffectively slow and/or shallow) can progress to apnea. Naloxone is a mainstay of therapy in this setting, but the practitioner is warned that first-line treatment is control of the airway and rescue breathing. Bag valve mask ventilation or similar intervention should be initiated immediately by the primary rescuer to restore oxygen supply to vital organs while other rescuers evaluate available methods of naloxone administration. A single rescuer should focus on providing oxygen to the overdose victim until other rescuers are available to assist. Basic Life Support and Advanced Cardiac Life Support principles should be followed during the resuscitation of a heroin overdose.[18] Adequate intravenous access is necessary so enough fluids and medication can be administered. An initial intravenous dose of 0.4 to 0.8  mg of naloxone will usually quickly reverse neurologic and cardiorespiratory symptoms if the overdose is pure heroin and not contaminated by carfentanyl and similar substances.[19] Frequent monitoring of vital signs and cardiorespiratory status is needed to make sure Heroin is cleared from the patient system. Patients treated with naloxone after heroin overdose may be safely released without transport to the hospital or emergency room if they have normal mentation and vital signs. In the absence of co-intoxicants and further opioid use, there is a very low risk of death from rebound heroin toxicity.[20]
+
+When there is a very clear history of heroin use or overdose, it can be fairly straightforward to initiate management with management of airway and breathing along with consideration of reversal agents. However, in the undifferentiated unresponsive patient, with no history of such an ingestion, this can be much more challenging. Traditionally there has been a "coma cocktail," which has now largely fallen out of favor in many regions. The original coma cocktail consisted of thiamine 100 mg IV, an ampule of IV dextrose, and naloxone 2 mg IV. Naloxone can, in theory, cause alertness in the heroin overdose patient. Recently it has been found that if there is contamination with a fentanyl type compound that the naloxone 2 mg dose can be far smaller than would be actually necessary to reverse the ingestion.[21] Physical exam findings indicating an unresponsive patient has ingested heroin include bradypnea/hypopnea/apnea and constricted pupils on eye exam. 
+
+The action of heroin on the opioid receptors is fairly well characterized at this point. An ongoing area of investigation is forensic, namely what opioid contaminants might be lurking within the next shipment of heroin coming into the United States from elsewhere. Many of these contaminants, such as carfentanyl, are not found on usual drug screens, and gas chromatography/mass spectroscopy can be needed to determine the exact contents of a given dose.[22] There is also growing interest in the potential for cannabis to displace opioids such as heroin as a drug of choice, which follows the harm reduction model, as cannabis is less lethal in the setting of overdose compared to heroin.[23]
+
+Clinicians who manage overdose patients should establish the need for ongoing treatment of their substance use disorder. In the absence of acute medical and psychiatric complications, the patient can be discharged from the hospital and referred for addiction care. This can include outpatient counseling and maintenance treatment with methadone or buprenorphine, or naltrexone.[24]
+
+As noted elsewhere, the toxicity is primarily due to hypoxia from hypoventilation, making airway management and adequate oxygenation the mainstay of therapy in the heroin overdose patient. This has become increasingly true as contaminants such as carfentanyl make the dosing of naloxone for such overdoses and the projected duration of naloxone requirement less and less predictable.[25] Home-dosed naloxone is gaining attention as a valid method of death prevention for heroin users, with research thus far not showing any compelling evidence of increased heroin use if allowed access to home naloxone rescue treatments [26][27]
+
+Heroin substance use disorder is a chronically relapsing disease that is often fatal. There has been a very gradual shift in thinking in the 2010s in the United States regarding what management method is best for managing heroin substance use disorder. The traditional method of focusing on having the patient remain chemical-free with the assistance of a therapeutic community model of support has unfortunately been plagued by rapid relapse once the intensity of care decreases, such as at the time of departure from inpatient rehab. Naltrexone has been used with varying degrees of success, with greater success seen in monthly intramuscular depot dosing (Vivitrol) compared to daily oral dosing.[28][29]
+
+Conversely, there is a growing body of data supporting the model of harm reduction with medication-assisted treatment with opioids such as methadone or buprenorphine. With harm reduction, patients are allowed to consume a version of opioids that is thought to be longer and slower acting than the heroin they became addicted to.[30] Recovery is defined as a cessation of illegal and socially disruptive activity, without necessity in the definition of recovery, that patients be opioid-free. This continues to be an area of debate, but the difference in the durability of freedom from illegal drug use has caused harm reduction to appear to be the new dominant thinking in addiction medicine regarding heroin addiction management. 
+
+The complications of injection drug use are diverse and covered in more depth elsewhere. In brief, these can be organized into effects at the injection site itself, intravascular infections, and infectious disease transmission as a consequence of shared needles and/or penetrating sex acts with IV drug users. At the injection site, needles can break off and become embedded foreign bodies unless they travel in the vein to lodge more proximally. Skin infections, including cellulitis and abscess, can form at injection sites. Some abscesses can become so tense and circumferential that they cause compartment syndrome. Intravascular infections can grow on the heart valves, primarily the tricuspid valve[31], which can require operative removal and replacement.[32] 
+
+Septic emboli can leave the infected heart valve and travel to distant sites; however, this is usually the lung in the case of the tricuspid valve, which can lead to empyema.[33] If the infection reaches the left side of the heart, the infection can then travel onward to a myriad of destinations throughout the body. Needle-sharing carries the risk of virus transmission, notably hepatitis B and C (among others) and human immunodeficiency virus (HIV). There is also a known association between IV drug abuse in general and treponema infestation.[34] Regarding heroin specifically, the complications other than those associated with injection are largely confined to hypoxic end-organ damage secondary to hypoventilation in the setting of a heroin overdose. 
+
+In addition to efforts to improve the treatment of overdoses in the ED (emergency department) and healthcare facility settings, efforts have begun to educate the lay public about the early recognition and treatment of overdoses.[35] This includes efforts to ensure improved access to naloxone for the management of overdoses, including its usage by the lay public, and efforts to encourage the public to access ED earlier when an overdose is suspected. It is useful to implement policies that allow licensed providers to prescribe naloxone to patients using opioids or other individuals in close contact with those patients.[36] Also, any individuals who administer naloxone should be protected from prosecution for practicing medicine without a license.
+
+Heroin use, abuse, overdose, and addiction have had many discussions in the professional and lay press of the United States, which intensified in the 2000s and 2010s. After around 2012, the United States government began to shift the prioritization of money from interdiction and law enforcement to treatment programs to treat drug addicts, including those addicted to heroin.[37] This focus shift was brought about by several factors. One factor was a growing recognition that interdiction efforts, known commonly as the drug war, were not yielding results equivalent to the effort and money invested. There was also growing professional and lay acceptance of the concept of medication-assisted treatment, involving replacing the heroin with another full agonist opioid such as methadone or partial opioid agonist like buprenorphine.[38] 
+
+A growing body of evidence began to show more clearly that medication-assisted treatment when added to traditional abstinence efforts, suppressed relapse risk more effectively than abstinence efforts alone. As of 2016, there was ongoing, sometimes heated debate regarding if medication-assisted treatment was exchanging one drug for another, as was asserted by some addiction treatment leaders of the time, and if that were true, what ethical ramifications that presented to the practitioner. The trend of consensus, where that could be obtained, was that the benefits of harm reduction with the initiation of medication-assisted treatment outweighed the risks in someone verified to be a patient with recurrent, problematic, accelerating use of opioids.[24]
+
+The concept of the "warm handoff" has been recently gaining traction as a mode of management for heroin users after an overdose encounter in the emergency medicine setting in 2018.[39] Warm handoffs seem to enhance the chance of the heroin user getting into active drug treatment when associated with an expectation that buprenorphine or methadone dosing will be available in a very rapid fashion and continue onwards with daily dosing. There is a growing body of evidence suggesting that this pattern of management gives a more durable recovery than the traditional chemical-free model that focused primarily on the benefits of the therapeutic community. There has been some recent argument in the literature[40], but the role of the therapeutic community in enhancing outcomes in medication-assisted treatment is still assumed to be essential.
+
+Patients with heroin toxicity are best cared for by an interprofessional team starting with emergency medical technicians and including emergency nurses, emergency physicians, and pharmacists. [Level 5]
+
+Disclosure: Robert Oelhaf declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Mohammadreza Azadfard declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

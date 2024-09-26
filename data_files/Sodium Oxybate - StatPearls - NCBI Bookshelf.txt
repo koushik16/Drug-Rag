@@ -1,0 +1,188 @@
+Title: Sodium Oxybate - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Alvio Dominguez; Lucia Soca Gallego; Preeti Patel; Mayur Parmar.
+
+AuthorsAlvio Dominguez1; Lucia Soca Gallego2; Preeti Patel; Mayur Parmar3.
+
+Last Update: February 29, 2024.
+
+Sodium oxybate is a medication that helps manage and treat narcolepsy with cataplexy or excessive daytime sleepiness. The medication belongs to the central nervous system (CNS) depressant class of drugs. This discussion focuses on the indications, administration, contraindications, and precautions of sodium oxybate. The mechanism of action, pharmacokinetics, adverse drug reactions, monitoring strategies, drug-drug interactions, and clinical toxicology are reviewed. The essential role of the interprofessional healthcare team in managing narcolepsy with sodium oxybate is highlighted, with alternatives also presented. 
+
+A thorough understanding of the complex pharmacology involved in prescribing sodium oxybate empowers healthcare professionals to create personalized treatment plans tailored to individual patients' specific needs. This knowledge enables informed decision-making concerning dosage regimens while minimizing the risk of adverse reactions. Participating clinicians are better equipped to deliver targeted, safe, and personalized care to patients suffering from narcolepsy. This care is best delivered in coordination with the consultation of primary care and pharmaceutical guidelines. 
+
+
+Objectives:
+Identify candidates for sodium oxybate among patients with narcolepsy, considering individual symptoms and treatment history.Differentiate between the formulations of sodium oxybate, including low-sodium options, and their respective benefits and risks.Assess potential risks by monitoring patients on sodium oxybate therapy, including signs of excessive central nervous system (CNS) depression.Implement effective communication among interprofessional team members to improve outcomes for patients who might benefit from sodium oxybate therapy.
+Access free multiple choice questions on this topic.
+
+
+Sodium oxybate is the gamma-hydroxybutyrate (GHB) salt, an endogenous metabolite of the inhibitory neurotransmitter GABA. 
+
+
+FDA-Approved Indications
+
+
+Sodium oxybate received FDA approval in 2002 for managing cataplexy or excessive daytime sleepiness in narcolepsy patients aged 7 and older. Narcolepsy is a clinical syndrome of excessive daytime sleepiness, cataplexy, sleep paralysis, and hypnagogic hallucinations. Narcolepsy is classified into 2 subtypes: Narcolepsy Type 1 (NT1), also known as narcolepsy with cataplexy, and Narcolepsy Type 2 (NT2), which refers to narcolepsy without cataplexy. Cataplexy is the most severe symptom of narcolepsy, which can result in daily impairment. In patients with narcolepsy, sodium oxybate increases slow-wave sleep duration delta power and improves sleep quality.[1][2]
+
+FDA has approved lower-sodium oxybate for narcolepsy in patients aged 7 and above. Lower-sodium oxybate is an alternative to sodium oxybate, formulated due to higher cardiovascular risks in narcolepsy and higher sodium content in traditional sodium oxybate. Lower-sodium oxybate contains calcium, magnesium, potassium, and a lower sodium content (92% less sodium than conventional sodium oxybate).[3] 
+
+The FDA has recently approved an extended-release formulation of sodium oxybate designed for nightly consumption at bedtime. Analyses conducted after the phase 3 REST-ON trial indicated consistent effectiveness of the nightly sodium oxybate in patients, regardless of the narcolepsy type.[4] Moreover, the FDA has assigned an orphan drug designation to nightly sodium oxybate.[5] The American Academy of Sleep Medicine endorses sodium oxybate for narcolepsy.
+
+
+Off-Label Uses
+
+
+The American Academy of Sleep Medicine suggests sodium oxybate for treating idiopathic hypersomnia in adults. Furthermore, sodium oxybate is also indicated for managing hypersomnia secondary to Parkinson disease in adults.[6]
+
+The precise mechanism by which sodium oxybate improves symptoms in patients with narcolepsy is not well understood. A hypothesis is that improved sleep might be due to the increased time spent in stages N2 and N3 and the decreased shift to stages N1/Wake/REM, resulting in deeper sleep.[7] Sodium oxybate is the salt of gamma-hydroxybutyrate, an endogenous substance that metabolizes the neurotransmitter GABA. The therapeutic benefits of sodium oxybate concerning cataplexy and excessive daytime sleepiness are attributed to its GABA-B receptor agonist activity.
+
+The results of several studies have shown that the drug has effects similar to ethanol. Sodium oxybate does this mainly by binding to GABA and extra-synaptic GABA. Compared to a placebo group, a controlled group of alcohol-dependent subjects will show up to a 34% increase in abstinence. The idea supports the already established use of sodium oxybate in countries like Australia and Italy, which have used the drug for over 25 years as an agent for alcohol withdrawal syndrome and maintain abstinence.[8] Narcolepsy is a complex sleep disorder that results in a disrupted sleep-wake cycle, with the loss of hypocretin (orexin). Excessive daytime sleepiness is frequently misdiagnosed due to a lack of experienced clinicians or confusion with other psychiatric disorders. Early diagnosis and treatment are crucial as they have been shown to improve patient outcomes.[9]
+
+
+Pharmacokinetics
+
+
+Absorption: The pharmacokinetics are nonlinear and similar following single or repeated dosings of sodium oxybate. Following oral ingestion of sodium oxybate, GHB is absorbed rapidly and has a bioavailability of about 88%. A high-fat diet delays the absorption of sodium oxybate.
+
+Distribution: GHB is a hydrophilic compound with less than 1% plasma protein binding.
+
+Metabolism: Studies suggest that GHB is metabolized in the Kreb cycle, generating water and carbon dioxide. An alternate path of biotransformation involves beta-oxidation via 3,4-dihydroxybutyrate, producing carbon dioxide and water. No active metabolites of sodium oxybate are discovered. 
+
+Excretion: Most GHB is cleared through biotransformation to carbon dioxide, which is eliminated through exhalation. The clearance suggests that less than 5% of the original drug is eliminated in human urine within 6 to 8 hours post-dosing.[10]
+
+
+Available Dosage Forms and Strengths 
+
+
+Sodium oxybate is an oral solution (0.5 g/ml), with 2 equal doses administered daily. Before ingestion, each dosage of sodium oxybate should be diluted with approximately ¼ cup (about 60 mL) of water in the pharmacy containers provided. Taking sodium oxybate while lying in bed is important as the drug can cause sudden sleepiness without prior drowsiness.
+
+
+Adult Dosage
+
+
+Initially, patients can begin taking 4.5 g/night; the patient should take the first dose of 2.25 g before bed and the second dose of another 2.5 g about 2.25 to 4 h after the first dose. After that, the dosage can increase based on the tolerability and efficacy response of the patient; the maximum dosage is 9 g/ night. If the second dose is missed, skip the dosage and resume the usual dosing schedule the next day. Do not administer 2 doses at the same time.
+
+To administer sodium oxybate (extended-release formulation) every night, initiate treatment with an oral dosage of 4.5 grams. The dose can be gradually increased by 1.5 g every week, up to the recommended 6 to 9 g range. This titration should be based on the drug's effectiveness and the patient's tolerance. Importantly, doses exceeding 9 g per night have not been studied and should be avoided. A placebo-controlled study showed that improvements in symptoms with sodium oxybate occur in a dose-dependent manner at 4.5, 6, and 9 g per night; patients report a decrease in cataplexy attacks as well as reduced excessive daytime sleepiness.[7][11]
+
+
+Specific Patient Populations
+
+
+Pregnancy considerations: Insufficient data is available regarding the potential developmental risks in pregnant women who are administered sodium oxybate. The administration of sodium oxybate to rats throughout pregnancy and lactation resulted in a clinically significant dose-dependent increase in stillbirths, as well as decreased postnatal viability and growth of offspring. In obstetric anesthesia using an injectable sodium oxybate, newborns had stable cardiovascular and respiratory functions but demonstrated drowsiness, causing a slight decrease in Apgar scores. In addition, a decrease in the rate of uterine contractions occurred after injection. The rapid placental transfer of GHB to newborns has been observed following intravenous (IV) administration to mothers. Furthermore, GHB has been detected in neonates at the time of delivery. Further research is required to determine the long-term effects of GHB exposure on the developing fetus. Based on animal data, sodium oxybate may cause fetal harm.
+
+Breastfeeding considerations: Infants have been successfully breastfed by mothers taking sodium oxybate therapeutically for narcolepsy. With the typical two-dose treatment, nursing should be withheld from the first dose to 4 to 6 hours after the second dose and breastfeeding can continue during the day.[12][13] For lactating mothers, noting that GHB is excreted in breast milk is essential. Nonetheless, monitoring the health of infants is important. A 2016 case report study presented a 27-year-old primigravida patient taking sodium oxybate for symptom control. The patient sought lactation advice; health experts advised her to avoid breastfeeding 4 hours after a dose. Using follow-up phone interviews, the mother explained that she did not experience any difficulties with breastfeeding. No noted adverse effects were apparent in the infant. Based on the pediatrics chart record, the infant showed appropriate milestones.[14]
+
+Renal impairment: Sodium oxybate has a high salt content. Monitoring daily sodium intake in patients with hypertension, heart failure, or renal impairment while taking sodium oxybate is imperative. This will ensure they do not exceed the recommended daily sodium intake. Consider using lower sodium oxybate.[15]
+
+Hepatic impairment: Product labeling recommends administering half of the original dosage per night orally divided into 2 doses for patients with hepatic impairment. Sodium oxybate is unlikely to cause clinically significant liver injury. Likelihood score: E.[16]
+
+Pediatric patients: Sodium oxybate demonstrated persistent effectiveness in managing narcolepsy with cataplexy in pediatric patients (age ≥ 7 years) with a safety profile similar to adults.[17] The initial dose, titration plan, and maximum dosage are determined based on the patient's weight.
+
+Older patients: Monitor for impaired motor and cognitive function while prescribing sodium oxybate to older patients. Dose selection often begins at the lower range due to potential issues such as reduced hepatic, renal, or cardiac function and polypharmacy.
+
+The most frequent adverse effect of sodium oxybate is nausea and vomiting. Other reported symptoms include dizziness, headache, urinary incontinence, and confusion. Overall, adverse effects increase at higher doses and tend to subside with treatment discontinuation.[7] More serious adverse effects are rare, but researchers have noted severe acute psychosis, anxiety, and suicidal ideation.[18] Additionally, patients taking sodium oxybate may experience weight loss. The speculation is that the weight loss is due to increased physical activity and reduced caloric intake. In the study, patients with a higher body mass index (BMI) experienced more significant weight loss. In conclusion, weight loss might be a possible benefit of sodium oxybate treatment in patients with a high BMI who suffer from narcolepsy.[19]
+
+Most reported serious adverse effects of sodium oxybate are due to illicit drug consumption. Abuse or misuse of GHB with other agents that cause changes in alertness (or consciousness) has implications pointing to severe adverse effects such as respiratory depression, seizures, altered mental status (AMS), and death.[20] Parasomnias have been reported. The clinician should inquire about episodes of sleepwalking. Sodium oxybate has also been linked to sleep driving and sleep-related eating disorders.[21]
+
+A recent analysis of the FAERS (FDA Adverse Event Reporting System) highlighted instances of dosing errors associated with sodium oxybate. Reported adverse events connected to taking the second dose too early included falls, drowsiness, dizziness, nausea, vomiting, enuresis, confusion, respiratory depression, bradycardia, CNS depression, seizure, and delirium.[5]
+
+
+Drug-Drug Interactions
+
+
+Sodium oxybate should not be used by patients taking sedative-hypnotic drugs such as benzodiazepines or consuming alcohol. Sodium oxybate is contraindicated in succinic semialdehyde dehydrogenase (SSADH) deficiency. SSADH deficiency is a rare disorder of inborn error of metabolism characterized by mental retardation, hypotonia, and ataxia. In response to the enzyme deficiency, physiologic fluids from patients accumulate GHB.[20][23]
+
+
+Box Warning (Central Nervous System Depression)
+
+
+Obtundation and clinically significant respiratory depression were observed in clinical trials at recommended doses in adult patients treated with sodium oxybate. The misuse or abuse of sodium oxybate is associated with adverse reactions, including coma, seizure, decreased consciousness, respiratory depression, and death.[5]
+
+
+REMS Program
+
+
+The active ingredient of sodium oxybate is GHB, which is associated with severe adverse reactions and substance use disorder. Sodium oxybate is limited for distribution to patients enrolled in the drug manufacturer's Risk Evaluation and Mitigation (REMS) program. The program originated to mitigate the risk of abuse and misuse. To prescribe sodium oxybate, all prescribers are required to enroll and comply with all requirements of the program. A central pharmacy will only dispense sodium oxybate to patients enrolled in the REMS program who have been counseled on the risks and proper use of sodium oxybate.[24]
+
+Diagnosis of narcolepsy is typically by polysomnography (PSG) followed by multiple sleep latency tests (MSLT).[25] Monitor for Epworth Sleepiness Scale (ESS) to assess therapeutic response.[26] Monitor for excessive daytime sleepiness, cataplexy episodes, sleep paralysis, and hypnagogic hallucinations. While taking sodium oxybate, patients require monitoring for symptoms of excessive CNS depression. Prescribers should start at a low dosage and adjust the dosage according to the patient's response. Patients should also engage in alcohol abstinence and strict adherence to the drug regimen. The former can result in excessive CNS depression, and the latter can result in symptoms of increased CNS activation, such as tachycardia and hypertension. Observe for the signs of misuse. Monitoring for suicidal ideations is also important.[27]
+
+
+Signs and Symptoms of Overdose
+
+
+Toxicity is often a result of illicit use and taking a higher dose than prescribed.[28] In a case report, a 19-year-old patient diagnosed with narcolepsy inadvertently self-administered a second dose of oxybate salts within a 90-minute interval following the initial dosage, deviating from the prescribed 150-minute interval. This resulted in respiratory failure, necessitating intubation and mechanical ventilation. Subsequently, the patient's condition improved after 9 hours, enabling a successful extubation. Following the exact dosing schedule and instituting precautionary steps are crucial to preventing errors.[29] In cases of sodium oxybate overdose, clinical features may include confusion, agitation, combativeness, and ataxia to coma. Additional clinical features include emesis, blurred vision, myoclonus, and seizures. Respiratory depression, characterized by Cheyne-Stokes respiration and apnea, is a significant concern, alongside bradycardia and hypothermia. As dosage increases, a notable progression toward deeper levels of coma is expected.
+
+
+Management of Overdose
+
+
+No antidote to sodium oxybate is available. Naloxone or flumazenil doesn't reverse the CNS depression induced by sodium oxybate. It is recommended to initiate symptomatic and supportive care promptly. Gastric decontamination may be considered if coingestants are suspected. Emesis can occur in obtundation; place the patient in an appropriate posture (left lateral recumbent position). Although the absence of a gag reflex may be observed in deeply comatose patients, unconscious patients can still become combative during intubation. In such cases, rapid-sequence intubation (RSI) may be necessary. Administer atropine to reverse the bradycardia associated with overdose. Patients detoxifying from an overdose might experience withdrawal syndrome. Symptoms include insomnia, confusion, tachycardia, and hypertension. Benzodiazepine administration seems to be the first-line treatment, while baclofen or propofol is an option as a second-line treatment.[30]
+
+Prescribers should be cautious when prescribing a schedule III controlled substance such as sodium oxybate due to the high potential for abuse. Sodium oxybate is usually prescribed for narcolepsy by a board-certified sleep medicine physician or neurologist. Pharmacists should ensure proper dosing and step-by-step instructions on taking sodium oxybate to minimize adverse events. Pharmacists should also counsel in detail regarding the potential adverse drug reactions. Specially trained nurses can monitor for signs of improvement and should inform the prescriber of any discrepancies. Furthermore, nurses can reinforce the importance of strict adherence to the treatment regimen. Currently, 3 formulations are available in the United States. Clinicians must familiarize themselves with sodium oxybate, mixed-salt oxybate, and extended-release nightly sodium oxybate to avoid prescribing or dispensing errors.[4]
+
+A 2009 forensic multi-drug intoxication fatality involving sodium oxybate presented a sleep apnea patient who had mistakenly received prescriptions for various CNS depressants, including sodium oxybate. Concomitant use of CNS depressant and the patient's health history resulted in an unintentional overdose.[31] An extensive risk management program from the drug manufacturer can help to prevent the misuse of sodium oxybate. The program limits drug distribution and educates patients on proper drug use.[20]
+
+Emergency department clinicians and triage nurses should stabilize the vitals in an overdose. Critical care clinicians ensure proper care of intubated patients. The medical toxicologist can assist if multiple drug ingestions are suspected. If the poisoning was deliberate, a referral to a psychiatrist is required. As illustrated above, the entire healthcare team is responsible for working in close collaboration. This interprofessional team approach would maximize efficacy and minimize adverse drug reactions of sodium oxybate, leading to enhanced patient outcomes.
+
+Disclosure: Alvio Dominguez declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Lucia Soca Gallego declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Preeti Patel declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Mayur Parmar declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

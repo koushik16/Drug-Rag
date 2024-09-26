@@ -1,0 +1,216 @@
+Title: Benzodiazepines - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Connor G. Bounds; Preeti Patel.
+
+AuthorsConnor G. Bounds1; Preeti Patel.
+
+Last Update: January 30, 2024.
+
+Benzodiazepines are a category of medications that exert their effects on benzodiazepine receptors in the central nervous system. Certain benzodiazepines, such as alprazolam, clobazam, chlordiazepoxide, and others, are approved by the United States Food and Drug Administration (FDA). These drugs are crucial for the cessation of seizure activity, as they account for 1% to 2% of United States emergency department visits annually. Benzodiazepines may be administered for various indications, including, but not limited to, insomnia, acute status epilepticus, induction of amnesia, agitation, and anxiety, spastic, and seizure disorders.
+
+Proficiency in the complex pharmacology of benzodiazepines allows for the development of personalized treatment plans tailored to meet the unique needs of each patient. This comprehensive understanding facilitates prudent decision-making in the prescription of benzodiazepines, optimizing dosage regimens while simultaneously minimizing the potential for adverse reactions. This activity provides an overview of the indications, mechanism of action, safe administration, adverse effects, contraindications, toxicology, and monitoring associated with the diverse physiological possibilities when using benzodiazepines in the clinical setting. This activity also highlights the crucial role of the interprofessional healthcare team in gaining expertise and delivering focused, secure, and personalized care.
+
+
+Objectives:
+Differentiate between various benzodiazepines, recognizing their unique pharmacological profiles, dosages, and potential adverse effects.Implement personalized treatment plans, optimizing benzodiazepine dosages based on individual patient needs and responses.Select monitoring strategies to ensure the safe and effective use of benzodiazepines, including regular assessment of therapeutic response and potential adverse effects.Collaborate with an interprofessional healthcare team to share insights, discuss patient cases, and ensure a holistic approach to benzodiazepine management.
+Access free multiple choice questions on this topic.
+
+
+Benzodiazepines are a category of medications that exert their effects on benzodiazepine receptors in the central nervous system (CNS). These drugs are crucial for the cessation of seizure activity,  as they account for 1% to 2% of United States emergency department visits annually. Benzodiazepines may be administered for various indications, including, but not limited to, insomnia, acute status epilepticus, induction of amnesia, agitation, and anxiety, spastic, and seizure disorders. The off-label use of benzodiazepines is prevalent in the field of psychiatry. Indications encompass conditions such as Tourette syndrome, delirium, delirium tremens, sleep disorders, and abnormal movements associated with medications, including tremors, tics, tardive dyskinesia, or chorea, among others.[1][2]
+
+
+FDA-Approved Indications
+
+
+The United States Food and Drug Administration (FDA) has approved a few benzodiazepines for the management of anxiety, seizures, and alcohol management, as mentioned below.
+
+Benzodiazepines are a class of drugs that act upon benzodiazepine receptors in the CNS. The receptor is a protein comprised of 5 transmembrane subunits, which collectively shape a chloride channel in the center, namely the gamma-aminobutyric acid type A (GABA-A) receptor. These 5 subunits include 2 alpha subunits, 2 beta subunits, and 1 gamma subunit. The extracellular portions of the alpha and beta subunit proteins form a receptor site for GABA, which is an inhibitory neurotransmitter. The extracellular portions of the alpha and gamma subunit proteins form a binding site for benzodiazepines.
+
+Activation of benzodiazepine receptors causes a conformational change to a central pore, allowing chloride ions to enter the neuron. The influx of the chloride anion results in hyperpolarization of the neuron, resulting in CNS depression.[15] Benzodiazepines increase the frequency of the GABA-A receptor Cl– channel opening in the presence of GABA. In the absence of GABA, benzodiazepines have no effects on GABA-A receptor function.[16]
+
+
+Pharmacokinetics
+
+
+Absorption: After oral administration, benzodiazepines are usually well absorbed from the gastrointestinal tract, except clorazepate, which undergoes decarboxylation in gastric juice before absorption. After intramuscular (IM) injection, the absorption of diazepam or chlordiazepoxide is slow, and the absorption of lorazepam or midazolam is usually quick. After intravenous (IV) administration, benzodiazepines are quickly distributed to the brain and the CNS. Midazolam is one of the most lipophilic benzodiazepines that crosses the blood-brain barrier and has a rapid onset of clinical effects.
+
+Distribution: The benzodiazepines and their active metabolites avidly bind to plasma proteins. Plasma protein binding is approximately 70% for alprazolam, 85% for clonazepam, and 99% for diazepam. The concentration of benzodiazepines in the cerebrospinal fluid is approximately equal to that of free drugs in plasma. Diazepam is redistributed especially rapidly.
+
+Metabolism: The first phase of metabolism involves the formation of N-desalkylated metabolites that are biologically active. Exceptions are triazolam, alprazolam and midazolam. The second phase of metabolism involves hydroxylation and usually yields an active derivative. The third phase of metabolism is the conjugation with glucuronic acid. Most benzodiazepines are metabolized extensively by hepatic CYP3A4 and CYP2C19. Lorazepam undergoes direct glucuronidation without cytochrome p450 metabolism. Consequently, lorazepam can be used in patients with hepatic dysfunction.[17] Remimazolam is degraded to metabolite (CNS7054), which has negligible hypnotic activity.[18]
+
+Elimination: Benzodiazepines and their metabolites are primarily excreted by the kidneys. Diazepam produces the active metabolites oxazepam, temazepam, and desmethyldiazepam, which further increase the drug action duration. The elimination half-life of benzodiazepines is increased in older patients and patients with renal dysfunction.[19]
+
+
+Available Dosage Forms and Strengths
+
+
+Benzodiazepines are commonly administered via the oral and IV routes. As protocol dictates, they may also be administered rectally, intranasally, and IM. For instance, intranasal or IM administration may be useful in actively seizing patients where IV or oral administration cannot be safely performed. Rectal administration in pediatric patients may be used for seizure cessation when IV access has not been established.
+
+Benzodiazepine administration involves delivering incremental doses of the medication until the desired effects, such as sedation, cessation of seizure activity, and anxiolysis, are achieved. However, achieving a CNS drug concentration sufficient for the desired effect through IV administration may take 3 to 5 minutes. Consequently, sufficient time should exist between doses to avoid over-sedation.
+
+Furthermore, clinicians must ensure the availability of resuscitation and airway management equipment during the administration of benzodiazepines. Airway management equipment may include nasopharyngeal or oropharyngeal airways, bag valve masks, blind insertion airway devices, laryngeal mask airways, or endotracheal intubation as training of emergency management service providers allows. The conversion factor can be estimated using the diazepam milligram equivalency.[20]
+
+
+Adult Dosage
+
+
+Alprazolam: For generalized anxiety disorder, initiate treatment with a dose of 0.25 to 0.5 mg, 3 times daily. The dose of alprazolam may be increased at intervals of 3 to 4 days to a daily dose of 4 mg. For panic disorders, a 1 to 4 mg/d dose is used. Use the minimal effective clinical dose due to the potential for dependence.[3]
+
+Chlordiazepoxide: For alcohol withdrawal syndrome, the suggested initial dose is 50 to 100 mg, followed by repeated doses of up to 300 mg/d as needed. Adjust the dose according to the Clinical Institute Withdrawal Assessment-Alcohol revised (CIWA-Ar) protocol.[21]
+
+Clonazepam: The initial dose for adults with panic disorder is 0.5 mg/d. The maintenance dose for most patients is 1 mg/d. A dosage of 0.5 mg is given 3 times daily for seizure disorders, and the maximum recommended daily dose is 20 mg.
+
+Clobazam: For Lennox-Gastaut syndrome, an adjunct to antiepileptic drugs, the initial dose is 10 mg for patients with a body weight of more than 30 kg. The dose is increased to 20 mg after 1 week. The usual maintenance dose after 2 weeks is 40 mg. In patients with a body weight of <30 kg, the dose should be reduced to half the recommended dose. Study findings indicate that patients with seizure improvement on starting dosages of 10 to 20 mg/day of clobazam may have better seizure control if the dosage is increased beyond the maximum recommended dosage of 40 mg/day.[5]
+
+Clorazepate: The initial dose in patients with focal (partial) onset seizures in patients over 12 years is 7.5 mg, 3 times daily. The maximum recommended dose is 90 mg/d.[7]
+
+Diazepam: ASAM 2020 guidelines recommend front-loading for patients experiencing severe alcohol withdrawal (eg, CIWA-Ar ≥19). A withdrawal symptom severity scale guides a front-loading regimen (eg, 10 mg diazepam orally every hour if CIWA-Ar score ≥10) or according to a fixed schedule (eg, 20 mg diazepam orally every 2 hours for 3 doses).[12] The recommended dose of diazepam (rectal) for febrile seizures is 0.5 mg/kg.[8][22]
+
+Estazolam: According to AASM, the dose of estazolam for sleep onset and sleep maintenance insomnia is 1 to 2 mg at bedtime.[9]
+
+Flurazepam: Flurazepam is indicated for the treatment of insomnia. The recommended dose of flurazepam is 15 mg for women and 30 mg for men.
+
+Lorazepam: According to AES guidelines, IV lorazepam (0.1 mg/kg) is administered as an initial dose for convulsive status epilepticus; the maximum recommended dose is 4 mg. The dose may be repeated at 3 to 5 minutes.[10]
+
+Midazolam: Midazolam is administered 10 mg IM for convulsive status epilepticus as a single dose. Midazolam is preferred for patients without IV access. Intranasal midazolam (0.2 mg/kg, maximum dose, 10 mg) can be used in prehospital settings. For procedural sedation in patients <60, 0.5 to 2.5 mg IV should be administered slowly over at least 2 minutes. Clinicians should fully evaluate the sedative effect before administering another dose. In MICU/SICU, midazolam is used as an alternative agent for sedation in mechanically ventilated patients. An intermittent dosing strategy is preferred to avoid drug accumulation. The Richmond Agitation Sedation Scale (RASS) goal is 0 to −2.[11][23][24]
+
+Oxazepam: For alcohol withdrawal syndrome, oxazepam is administered with a symptom-triggered dosing approach. For CIWA-Ar scores between 8 and 15, 15 mg oxazepam is administered and 30 mg oxazepam is given for CIWA-Ar >15.[12]
+
+Quazepam: Quazepam is suggested as an alternative drug for sleep onset and sleep maintenance insomnia. The recommended dose is 7.5 mg/d at bedtime. The dose of quazepam can be increased to 15 mg, but the drug has a long half-life; hence, concern exists regarding accumulation and daytime impairment.[13]
+
+Temazepam: The AASM Clinical Practice Guideline recommends temazepam for sleep onset and sleep maintenance insomnia. The recommended dose is 7.5 to 15 mg daily at bedtime. Temazepam improves total sleep time, decreases sleep latency, and improves sleep quality. According to the American College of Physicians (ACP) guidelines, all patients with chronic insomnia should receive cognitive behavioral therapy as the initial treatment intervention.[9][13]
+
+Triazolam: Triazolam is indicated primarily for sleep-onset insomnia. The recommended dose is 0.125 to 0.25 mg daily at bedtime. Limit the use to 4 to 8 weeks.[12]
+
+Remimazolam: Remimazolam was approved by the FDA in 2020 and is indicated for short (<30 mins) procedural sedation in adults. For procedural sedation in adult patients, administer 5 mg IV remimazolam over 1 minute. To maintain procedural sedation, administer 2.5 mg IV (as needed) over 15 seconds. For induction, in ASA (American Society of Anesthesiologists) class III and IV patients, 2.5 to 5 mg IV over 1 minute is administered based on the clinical condition. To maintain procedural sedation in ASA class III and IV patients, administer 1.25 to 2.5 mg IV as needed over 15 seconds. Wait for at least 2 minutes before administration of an additional dose.[14]
+
+
+Specific Patient Populations
+
+
+Hepatic impairment: Lorazepam and oxazepam metabolism is minimally affected by liver disease. As discussed above, lorazepam is the safest empiric choice among benzodiazepines for treating alcohol withdrawal syndrome and in patients with hepatic impairment. Administer remimazolam with caution in severe hepatic impairment.[25]
+
+Renal impairment: In renal impairment, decreased clearance and plasma protein-binding results in increased unbound (active) benzodiazepine concentration. According to a study, lorazepam may be safe in patients with ESRD. A risk of accumulation exists with diazepam. Lower starting doses should be used, and the dose should be cautiously titrated to clinical response.[19][26]
+
+Pregnancy consideration: Most benzodiazepines are classified as former FDA pregnancy category D medication, indicating some fetal risk, but potential benefits may allow the use in pregnant women (when fetal mortality increases by 10% for every minute of maternal seizure activity). Several studies have indicated that specific benzodiazepines (diazepam and chlordiazepoxide) may increase the risk of congenital malformations, including cleft palate in the fetus. Others, such as flurazepam and temazepam, are considered pregnancy class X drugs, as they have been shown to produce neonatal lethargy and problems in skeletal development (exencephaly and fusion or asymmetry of ribs) in neonates, respectively.
+
+All benzodiazepines should be particularly avoided during the first trimester of pregnancy.[27] According to the National Institute for Health and Care Excellence (NICE) guidelines, clinicians should not suggest benzodiazepines to pregnant women. However, benzodiazepines can be used to manage severe anxiety, agitation, and seizures. The use of benzodiazepines during pregnancy is associated with neonatal hypotonia and withdrawal. Counseling is important to taper down benzodiazepines in women who are planning for pregnancy.[28][29]
+
+Breastfeeding considerations: Care should be taken in the neonatal and pre-term infant populations, as studies indicate these patients experience significant hypotension, particularly with coadministration of opioids, specifically fentanyl. A safety scoring system suggests that midazolam, lorazepam, and oxazepam can be used cautiously. The use of benzodiazepines during lactation should be avoided unless a compelling indication is present.[30][31][32] 
+
+Older patients: The American Geriatric Society Beers Criteria identifies benzodiazepines as potentially inappropriate for older adults due to heightened sensitivity and reduced clearance. This elevated risk in older patients can lead to cognitive impairment, falls, and fractures. However, reasonable use of benzodiazepines may be warranted, such as in the management of seizure disorders, alcohol withdrawal, periprocedural sedation, and severe generalized anxiety disorder.[33]
+
+Pediatric patients: Per the American Epilepsy Society guidelines, the IV administration of lorazepam and diazepam effectively stops seizures lasting at least 5 minutes. Additionally, rectal diazepam, IM midazolam, intranasal midazolam, and buccal midazolam are probably effective.[10]
+
+Benzodiazepine administration may lead to common adverse effects, including, but not limited to, respiratory depression, respiratory arrest, drowsiness, confusion, headache, syncope, nausea and vomiting, diarrhea, and tremors.
+
+In neonates, less than 1% of patients treated with benzodiazepines experience laryngospasm and bronchospasm. They may also experience ventricular arrhythmias, including ventricular bigeminy or premature ventricular contractions, vasovagal syncope, bradycardia, or tachycardia. Gastrointestinal reactions may include retching, nausea and vomiting, and excess salivation. CNS and neuromuscular adverse effects may include euphoria, hallucination, ataxia, dizziness, seizure-like activity, and paresthesia.
+
+Visual disturbances may include diplopia (“double vision”), cyclic eyelid movement, loss of balance, and difficulty focusing the eyes on objects. Long-term use of benzodiazepines can lead to cognitive impairment.[34] Rare cases of cholestatic liver injury have been reported with benzodiazepines like alprazolam, clonazepam, diazepam, and flurazepam.[35] Hypertension, as well as hypotension, is observed with remimazolam. Monitor the blood pressure during the procedure.[36]
+
+
+Drug-Drug Interactions
+
+
+
+Warnings and Precautions
+
+
+Contraindications of benzodiazepines include a known case of angle-closure glaucoma. Benzodiazepines have muscle relaxant effects that can affect the function of the sphincter pupillae muscle of the iris.[40] Benzodiazepines are also contraindicated in patients with prior hypersensitivity reactions. Anaphylaxis and angioedema have been reported.[41] Remimazolam is contraindicated in patients with a history of hypersensitivity reaction to dextran 40.[42]
+
+
+Box Warning
+
+
+Concomitant use of benzodiazepines with opioids can lead to sedation, severe respiratory depression, coma, and death. Avoid combination.[43]
+
+Benzodiazepines are CNS depressants specifically inhibiting respiratory drive. Therefore, careful monitoring of all vitals, especially blood pressure and respiratory rate, should be performed after the administration of benzodiazepines. In addition, waveform capnography should be considered to monitor respiratory status. Though the therapeutic index of benzodiazepines is high, monitoring respiratory depression is critical. Respiratory arrest has been noted to occur with rapid injection of benzodiazepines via the IV route.[44]
+
+Monitor for alcohol withdrawal using CIWA-Ar protocol and adjust the dose of benzodiazepines according to the score.[21] Patients receiving parenteral lorazepam or diazepam for alcohol withdrawal should be monitored for signs of hyponatremia and metabolic acidosis, as the IV formulation contains propylene glycol.[12] Monitor RASS in patients administered benzodiazepines in mechanically ventilated patients. According to the Society of Critical Care Medicine (SCCM) guidelines, an individualized patient-centered approach should be used to prevent oversedation.[23][24][45]
+
+Healthcare professionals can use prescription drug monitoring programs to identify benzodiazepine misuse.[46] Benzodiazepines are DEA-Scheduled IV drugs; flunitrazepam is unique among benzodiazepines, which are under Schedule IV but have Schedule I penalties.
+
+
+Signs and Symptoms of Overdose
+
+
+Patients may exhibit extreme sedation, cognitive impairment, and ataxia, often accompanied by slurred speech. Respiratory depression represents a critical concern, necessitating prompt medical intervention. Cardiovascular effects, such as hypotension and bradycardia, further underscore the systemic consequences of benzodiazepine toxicity.
+
+
+Management of Overdose
+
+
+Benzodiazepine overdose requires managing the airway, breathing, and circulation according to the American Heart Association (AHA) guidelines.[47] Flumazenil is a GABA-A receptor antagonist, acting to reverse the sedative effects of benzodiazepines. Flumazenil functions through competitive inhibition of the alpha-gamma subunit of the GABA-A receptor. Flumazenil administration should be prudent, as it may precipitate withdrawal seizures. Of note, one multicenter trial found that patients with excessive benzodiazepine ingestion could become “re-sedated” after flumazenil began to wear off.
+
+Naloxone may also be administered if patient history/presentation suggests that opioids were taken along with benzodiazepines and the patient is experiencing signs of respiratory distress/arrest. However, naloxone doses may be smaller than the standard 0.4 mg in suspected benzodiazepine and opioid co-ingestion. Doses of 0.05 mg may be recommended, as a withdrawal from opioids may precipitate vomiting. This becomes an issue in sedated benzodiazepine-overdosed patients, as they may be unable to protect their airways.[48][49] The activated charcoal administration is contraindicated in benzodiazepine overdose. This is due primarily to altered mental status commonly associated with benzodiazepine overdose, which increases the risk of aspiration of activated charcoal.[50]
+
+
+Recommendations 
+
+
+The AHA 2023 guidelines provide recommendations for cardiac arrest or toxicity due to benzodiazepine poisoning. Isolated benzodiazepine poisoning rarely causes life-threatening hemodynamic instability or respiratory depression. Flumazenil removes benzodiazepine-mediated suppression of the sympathetic system. It can lead to adverse cardiac events, including supraventricular tachycardia, ventricular dysrhythmias, and asystole, especially when coupled with other arrhythmogenic drugs or hypoxia. Flumazenil may not fully reverse respiratory depression in mixed overdoses, and the decision to administer flumazenil should consider potential concomitant opioid or CNS depressant poisoning, with naloxone often preferred.[51]
+
+Benzodiazepines are commonly prescribed drugs in outpatient and hospitalized patients. Benzodiazepines are effective for sedation and anxiolysis; they also have the potential to cause harm. All healthcare professionals, including clinicians who prescribe these agents, must be fully aware of the drug's adverse effects, misuse, abuse, and potential to develop physical dependence. Benzodiazepines are DEA-Scheduled IV drugs. Pharmacists should perform medication reconciliation and report to clinicians in case of significant drug-drug interaction. Anesthesiologists and certified registered nurse anesthetists are crucial in procedural sedation.
+
+Nurses have an important role in monitoring patients in mechanically ventilated patients. Neurologists should be consulted for the appropriate use of benzodiazepines like clobazam for Lennox-Gastaut syndrome. Intensivists have an important role when benzodiazepines are used for sedation in mechanically ventilated patients. Emergency medicine physicians and nurses should rapidly stabilize the patient in overdose. When the patient is stable, the psychiatrist should be consulted. Psychiatrists play a crucial role in patients suffering from benzodiazepine use disorder. Finally, liberal prescribing of these drugs is not recommended as their abuse potential is high. Furthermore, the DEA has been cracking down on healthcare professionals who prescribe these agents without a valid reason and proper documentation.[52][53] 
+
+Benzodiazepine therapy requires the collaborative approach of an interprofessional healthcare team of clinicians, specialists, pharmacists, and specialty-trained nurses working together to accomplish optimal patient outcomes. A study concluded that interprofessional team-based models that include clinical pharmacists and primary care physicians for anxiety and insomnia could assist in optimizing therapy and minimizing the risk associated with benzodiazepine use.[54]
+
+Disclosure: Connor Bounds declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Preeti Patel declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

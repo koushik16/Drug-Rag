@@ -1,0 +1,192 @@
+Title: Nicotine Addiction and Smoking: Health Effects and Interventions - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Sunny P. Aslam; Stephen W. Leslie; Jason Morris.
+
+AuthorsSunny P. Aslam1; Stephen W. Leslie2; Jason Morris3.
+
+Last Update: August 8, 2024.
+
+The Surgeon General reports that nicotine addiction produces 480,000 fatalities each year in the United States, with more casualties than all other addictions combined. Around 23% of the world's population inhales cigarettes, and the prevalence of electronic inhalation or "vaping" of nicotine has skyrocketed in recent years, particularly in young people. Studies have linked tobacco smoking to a range of devastating illnesses, including coronary artery disease, chronic obstructive pulmonary disease, cancers in every human organ system, and decreased reproductive health.
+
+Diagnosing nicotine addiction involves assessing patient history and behaviors and using screening tools. Treatment plans are personalized, combining behavioral counseling with pharmacotherapy options like nicotine replacement therapies, bupropion, or varenicline. Support systems such as support groups and quitlines offer ongoing encouragement. Relapse prevention strategies and continued follow-up are essential for maintaining cessation efforts and achieving long-term success in abstaining from tobacco use.
+
+This activity for healthcare professionals is designed to enhance learners' proficiency in evaluating and managing nicotine addiction. Participants gain a deeper insight into the condition's risk factors, complications, and evidence-based diagnostic and management strategies. Greater competence enables learners to work effectively within an interprofessional team caring for patients with nicotine addiction.
+
+
+Objectives:
+Identify the primary risk factors and signs of nicotine addiction in patients through comprehensive history taking and clinical evaluation.Differentiate between nicotine addiction and other substance use disorders using established diagnostic criteria and screening tools.Implement individualized treatment plans combining behavioral counseling and pharmacotherapy to support patients in quitting nicotine use.Collaborate with the interprofessional team to educate, treat, and monitor patients with nicotine addiction to improve patient outcomes.
+Access free multiple choice questions on this topic.
+
+
+Tobacco leaves were originally harvested and smoked by Native Americans and introduced in Europe by Christopher Columbus in the 15th century. The botanical name for tobacco, Nicotiana tabacum, is derived from Jean Nicot, who sent the tobacco leaf to the Queen of France in the 16th century. Packaged cigarettes and cigars rapidly gained popularity during the late 18th century. Tobacco was suspected of being linked to throat and mouth cancers in the early 20th century, but the 1964 "Smoking and Health: Report of the Advisory Committee to the Surgeon General of the Public Health Service" significantly changed public opinion against nicotine. Since then, tobacco has been a prominent topic in most annual Surgeon General reports.
+
+The original report was an objective review of literature that pointed to tobacco use as being causal to several deadly health conditions. Much research has been conducted since, and many new findings regarding the disease-causing aspects of tobacco smoking have been elucidated. Despite the widely published results of this research, tobacco-related illnesses remain the leading cause of preventable death in the United States.[1][2][3] While cigarette use rates have decreased, electronic cigarette use has increased, particularly among the youth.[4]
+
+Most people who smoke start in their teenage years. These individuals often have family or friends who also smoke. The tobacco industry advertises heavily and markets directly to teenagers. Television commercials and social media portray tobacco use as acceptable, even glamorous. Vaping and e-cigarettes provide attractive alternatives, especially for younger individuals.[5] Strong associations have been found between adverse childhood events, nicotine, and cannabis use.[6]
+
+About 23% of the global population is addicted to cigarettes, including 32% of men and 7% of women. Eastern and Southeast Asia have the highest smoking prevalence in the world at 45%, while the Caribbean and North America have the lowest prevalence at 20%.[7] In 2021, 18.7% of adults in the United States reported using tobacco products.[8] Cigarettes (11.5%) and e-cigarettes (4.5%) were most often used. Furthermore, 24.1% of men and 13.6% of women use a tobacco product. By age group, tobacco users represent 17% of adults aged 18 to 24, 22.1% of adults aged 25 to 44, 21.1% of adults aged 45 to 64, and 11% of adults 65% and older.
+
+Nicotine addiction works by activating the brain's reward system, particularly the ventral tegmental area in the midbrain, similar to other addictive drugs and alcohol. This activation stimulates the release of dopamine in the brain's reward pathways, creating pleasurable sensations that reinforce the desire to use nicotine repeatedly. Over time, the brain adapts to these increased dopamine levels, leading to tolerance, where more nicotine is needed to achieve the same effects. Additionally, withdrawal symptoms such as irritability, anxiety, and strong cravings occur when nicotine levels drop, making it challenging for individuals to quit. These neurobiological mechanisms contribute to the powerful and persistent nature of nicotine addiction.[9]
+
+Meanwhile, some of the exact mechanisms for tobacco smoking-related illnesses have yet to be elucidated. However, several studies have linked tobacco smoking to a plethora of devastating illnesses, including coronary artery disease (CAD), cancers in every human organ system, chronic obstructive pulmonary disease (COPD), and decreased reproductive health.[10][11][12] Several potential mechanisms have been described linking tobacco smoking with CAD. Inhaled tobacco smoke increases the amount of exogenous and endogenous free radicals in the body, increasing oxidative stress. Greater oxidative stress leads to vasomotor dysfunction, increased prothrombotic and decreased fibrinolytic factors, leukocyte and platelet activation, greater lipid peroxidation, increased adhesion and inflammatory molecules, and smooth muscle proliferation. Researchers postulate that a combination of these factors leads to the development of CAD in tobacco smokers.[13]
+
+Tobacco smoking correlates with an increased risk of developing at least 17 classes of human cancers. Tobacco smoke contains about 60 known carcinogens that can damage deoxyribonucleic acid (DNA) by forming DNA adducts. If not properly repaired, these adducts cause mutations that are passed on to daughter cells during cell division. These mutations accumulate over time, disrupting normal cell reproduction and leading to tumor formation.[14][15] COPD has also been shown to correlate heavily with tobacco smoking. Reactive oxidants in cigarette smoke create a chronic inflammatory state in the lungs, which can persist even after smoking cessation. This inflammation leads to lung remodeling and can eventually cause significant structural changes. An autoimmune component in lung disease has also been proposed, where autoantibodies react to antigens formed directly or indirectly from tobacco smoking.[16]
+
+Tobacco smoking has several deleterious effects on human reproductive health. In men, smoking has been linked to decreased semen volume, sperm density, and total sperm count.[17] In women, tobacco smoking has been shown to disrupt the normal menstruation cycle and decrease ovarian reserve.[18] Smoking tobacco while pregnant is also associated with low birth weight and cryptorchidism.[19][20]
+
+Tobacco smoke is comprised of a mixture of more than 4000 different compounds. Mainstream smoke, the smoke directly inhaled from the end of the cigarette into the smoker’s lungs, is hotter, denser, and contains more compounds than the sidestream smoke emanating from the cigarette's lit end. Mainstream smoke is the most dangerous type of cigarette smoke, although sidestream smoke has also been linked to significant illnesses.
+
+Many compounds found in tobacco smoke form via the process of combustion as the cigarette burns between 600 °F and 900 °F. The particles rapidly increase in size after the smoke is drawn from the cigarette due to humidification from the moist air in the upper respiratory tract. Mainstream smoke subsequently condenses as it transits into the lungs, leaving an estimated 50% to 95% of these molecules deposited in the bronchi, bronchioles, and alveoli.[21]
+
+Tobacco smoking history should be routinely obtained from patients. The scent of tobacco smoke is a great cue to ask patients about nicotine use and any wishes to quit. Pack-year history provides an estimated number of cigarettes a patient has consumed over a lifetime and is calculated as packs smoked per day multiplied by the total number of years smoked. Obtaining a pack-year history has shown to be of some value when determining the presence and severity of smoking-related illnesses such as CAD and COPD, as smoking-related cancers have all been linked to increased pack-year history.[22][23][24]
+
+Many physical exam findings can be directly or indirectly related to tobacco smoking. The oropharyngeal examination often reveals periodontal disease and tooth loss. Tongue and oropharyngeal cancers may even be visualized. Lung auscultation may reveal decreased or asynchronous breath sounds. The cardiac examination often demonstrates an increased resting heart rate compared to nonsmokers. Tobacco stains may be present on the skin of the face and fingers. Decreased peripheral pulses may be appreciated due to smoking-related peripheral vascular disease.[25][26][27]
+
+Assisting patients with smoking cessation is one of the most important primary care tasks, and the benefits of assessing patients’ smoking behavior are well established. The US Preventive Services Task Force (USPSTF) recommends using the 5 As:
+
+Behavioral interventions, either alone or combined with pharmacotherapy, substantially improve smoking cessation rates, supported by substantial evidence. Both behavioral interventions and pharmacotherapy are effective and recommended, and combinations of interventions are most effective. The best and most effective interventions are those that are feasible for the individual.[28][29]
+
+Asking about nicotine use and focusing on efforts to help a patient quit or cut down is the focus of the evaluation. Referral from a clinician may be needed to treat comorbid pulmonary, cardiac, psychiatric, or other complications. Blood work and radiology, in particular, may be utilized. Addressing comorbid addictions or psychiatric disorders is also vital. 
+
+Nicotine is one of the most addictive substances known, making it extremely difficult to give up. Repeated attempts at quitting nicotine, often involving both behavioral interventions and medications, are needed.
+
+
+Behavioral Interventions
+
+
+Behavioral interventions found to be effective in aiding adults in smoking cessation include psychotherapy, in-person counseling, telephone counseling, and self-help materials. These interventions may increase smoking cessation rates from a baseline of 5% to 11% in control groups to 7% to 13% in intervention groups. Both minor and intensive in-person interventions increase the proportion of persons who successfully quit smoking and remain abstinent.
+
+However, more or longer sessions improve cessation rates. According to Public Health Service guidelines, individuals should undergo at least 4 in-person counseling sessions. Interventions delivered by various types of providers, including physicians, nurses, psychologists, social workers, and cessation counselors, can be effective.  Telephone counseling interventions should provide at least 3 telephone calls conducted by trained professional counselors or healthcare providers. Effective self-help materials are tailored to the individual and are primarily print-based.[29]
+
+
+Pharmacotherapy
+
+
+Pharmacotherapy interventions approved by the Food and Drug Administration (FDA) for treating tobacco dependence in adults include sustained-release bupropion, varenicline, and nicotine replacement therapy (NRT).[30][31] The effects of these modalities and the studies supporting their benefits are explained below.
+
+
+Varenicline
+
+
+The EAGLES trial established varenicline as the most effective and safest treatment for nicotine addiction when combined with counseling in the general population and those with psychiatric comorbidities.[32] Bupropion and nicotine-based medications (ie, gum, lozenges, inhaler, nasal spray, and patch) showed equal efficacy. Recent evidence includes a potential role for cytisine.[33] In patients willing to quit, a combination of counseling and one or more medications has proven more effective than just counseling or medication alone.[34][35][36]
+
+Varenicline is a selective α4-β2 nicotinic receptor partial agonist that reduces cravings and withdrawal symptoms while blocking the binding of inhaled nicotine. Smoking cessation rates have been shown to increase from 12% in control groups to 28% in those using varenicline. The FDA removed a black box warning for mental health side effects from varenicline in December 2016. A Cochrane review found some increase in significant adverse events compatible with both benefit and harm.[37] Multiple other studies showed varenicline, bupropion, and nicotine replacement do not increase the risk of major cardiovascular events.[38][39]
+
+
+Sustained-Release Buproprion
+
+
+Smoking cessation may increase from 11% in control groups to 19% in those using sustained-release bupropion. Bupropion was first developed as an antidepressant. However, The drug is also effective as a smoking cessation aid. Some studies show that NRT combined with sustained-release bupropion may be more effective than sustained-release bupropion alone, but not necessarily NRT alone.
+
+
+Nicotine Replacement Therapy
+
+
+Nicotine in itself is not carcinogenic. This compound acts on the craving-and-seeking pathway, as in all other addicting substances. The goal of nicotine replacement is to relieve cravings and reduce nicotine withdrawal symptoms. Rates of smoking cessation may increase from 10% in control groups to 17% in persons using any form of NRT, and using 2 types of NRT is more effective than using a single type. Evidence proves that combining a nicotine patch, which slowly releases the substance, with a rapid-delivery form of NRT (eg, gums, lozenges, nasal spray, and inhalers) is more effective than using a single type.
+
+
+Combined Behavioral and Medication Therapy
+
+
+Combining behavioral and medication therapy may increase smoking cessation rates from 8% to 14% compared to minimal behavioral interventions such as brief advice on quitting. Combination interventions usually include behavioral components delivered by specialized smoking cessation counselors combined with NRT. Combination interventions comprise several sessions (more than 4) and are more successful with more sessions. Adding behavioral interventions to pharmacotherapy also increases cessation rates from 18% in persons receiving pharmacotherapy alone to 21% in patients using a mix of pharmacotherapy and behavioral support.
+
+
+Electronic Cigarettes for Smoking Cessation
+
+
+In a Cochrane review, electronic cigarettes with nicotine increased smoking cessation rates compared with placebo, with cessation rates similar to that of nicotine patches. The most common reason for using electronic cigarettes has been to quit or reduce cigarette smoking. However, little is known about electronic cigarettes' ingredients or long-term effects. Initial studies show that electronic cigarettes contain other harmful chemicals besides nicotine, including carcinogens and lung irritants. The USPSTF found insufficient evidence for the use of electronic cigarettes as a smoking cessation tool in adults. One randomized trial of 1,246 smokers found electronic cigarettes led to less use of tobacco than counseling alone.[40]
+
+
+Pregnant Women
+
+
+Smoking during pregnancy contributes to preterm deliveries, low-birthweight term deliveries, sudden infant death syndrome, and preterm birth-related deaths. Approximately 23% of women smoke during the last 3 months before conception. Data from 2011 showed that 10% of women smoked during the last 3 months of pregnancy. According to the USPSTF, behavioral interventions substantially improve the achievement of tobacco smoking abstinence in pregnant women, increase infant birth weight, and reduce the risk of preterm birth. 
+
+Sustained-release bupropion and varenicline showed no strong evidence of positive or negative fetal outcomes in one study of pregnant women.[41] In a comparison of pregnant smokers, varenicline was 3 times more effective than nicotine replacement.[42] Varenicline showed no increase in negative fetal outcomes in a large Danish cohort.[43] Although a few studies suggest a potential benefit of NRT on perinatal outcomes in pregnancy, nicotine is classified as a pregnancy category D medication, indicating evidence of fetal risk. Both bupropion sustained-release and varenicline are pregnancy class C medications.[44]
+
+Differentials of nicotine dependence include substance use disorders, which may present with similar withdrawal and craving symptoms, and mental health conditions like generalized anxiety disorder and major depressive disorder, with symptoms that can overlap with nicotine withdrawal. Individuals with attention-deficit/hyperactivity disorder may use nicotine to self-medicate, while panic disorder can mimic withdrawal symptoms. Additionally, other behavioral addictions, such as gambling or internet addiction, may exhibit similar compulsive behavior and reward-seeking patterns.
+
+Cigarette smoking produces a host of health problems, all of which are considered indirect effects of nicotine addiction. These conditions include but are not limited to the following:
+
+A thorough history and targeted questioning can help distinguish nicotine addiction from other conditions and guide treatment strategies.
+
+Integrating tobacco cessation has become a key focus in developing medical school curricula.[45] Short but sustained training programs are the most effective.
+
+Tobacco smoking is extremely hazardous to human health. Smokers have a death rate approximately 3 times higher than those who have never smoked. The excess mortality of smokers is mostly attributed to vascular illnesses such as CAD, respiratory illnesses such as COPD, and at least 17 different classes of tobacco-smoking-related cancers. Evidence shows that smokers lose at least 10 years of life expectancy on average. Quitting smoking before age 40 has been shown to reduce smoking-related death by about 90%.[46]
+
+Physicians should make it a priority to help patients stop smoking. Smoking even a few cigarettes a day or only occasionally increases a person's chance of developing lung cancer. Smoking cessation has immediate benefits that begin hours after a person stops smoking, including lowering blood pressure, decreased cough and phlegm production, and increased lung capacity. Quitting smoking reduces a patient's risk of developing cancer, heart disease, and chronic lung disease in the long term. The earlier a person stops smoking, the more their risk of developing lung cancer is reduced.
+
+However, quitting smoking at any age is beneficial, and the benefits of smoking cessation are cumulative over time. People who stop smoking before age 40 reduce their chances of dying from smoking-related diseases by 90%. Even people already diagnosed with cancer benefit from smoking cessation. With some forms of cancer, quitting smoking at the time of diagnosis can reduce the chances of cancer-related death by as much as 40%.[47][48]
+
+Consultations with psychiatry and addiction specialists and referrals from primary care to medical specialties like pulmonology and cardiology can be helpful. 
+
+Primary care and many public health programs form the base of efforts to combat nicotine addiction. Through comprehensive patient education, emphasizing the risks of smoking and the benefits of cessation, healthcare providers play a pivotal role in promoting healthier behaviors. These efforts include offering counseling, prescribing cessation aids, and advocating for smoke-free environments to reduce exposure and support long-term success in quitting tobacco use.
+
+Screening, persistence, and aggressive treatment with medications and counseling are effective in treating the world's most deadly addiction. Early identification through thorough screening in healthcare settings allows for timely interventions. Persistence in supporting patients through the challenges of quitting, combined with tailored pharmacotherapy and behavioral counseling, enhances cessation outcomes. These approaches address both the physiological and psychological aspects of nicotine addiction, promoting sustained abstinence and improved overall health.
+
+Tobacco smoking is a life-threatening addiction that, if untreated, can cause damage to every organ system in the human body. The best way to avoid a tobacco smoking-related illness is never to start smoking, and the next-best way is to stop smoking cigarettes as soon as possible. Helping a patient quit smoking is currently one of the most beneficial preventive medicine interventions. Nearly every healthcare team member may play an important role in assisting with smoking cessation. Nurses play a large role in assisting clinicians in tobacco cessation programs. Some hospitals train nurses to deliver behavioral and pharmaceutical interventions to inpatient smokers. These interventions have shown great promise in significantly reducing smoking in certain populations.[49]
+
+Clinicians are also at the front lines in the fight against tobacco smoking. Evidence shows that individually focused counseling when delivered by a physician, can aid a patient's smoking cessation efforts. Clinician-prescribed or recommended over-the-counter medications have also been shown to play an effective role in treating these patients.[50] The best outcomes in convincing patients to quit smoking are achieved through an interprofessional team working together to educate the patient.
+
+Clinical scientists also play a highly important role in the fight to end tobacco addiction and tobacco-related diseases. Clinical scientists continue to investigate and discover the physiology of tobacco-related illnesses, the effectiveness of tobacco cessation medications and interventions, and tobacco smoking-related conditions across a broad spectrum of populations. Scientific research has revealed much about tobacco smoking, yet much still remains to be discovered. An interprofessional team approach to smoking cessation promises better patient outcomes.
+
+Disclosure: Sunny Aslam declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Stephen Leslie declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Jason Morris declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers

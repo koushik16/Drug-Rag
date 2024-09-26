@@ -1,0 +1,194 @@
+Title: Marijuana - StatPearls - NCBI Bookshelf
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+An official website of the United States government
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2024 Jan-. 
+
+Anisha R. Turner; Preeti Patel; Suneil Agrawal.
+
+AuthorsAnisha R. Turner1; Preeti Patel; Suneil Agrawal2.
+
+Last Update: February 2, 2024.
+
+Cannabis, commonly known as marijuana, is frequently sought after by patients for the management of various conditions. The primary medical indications of marijuana are to relieve symptoms rather than cure underlying diseases. Conversely, many clinicians hesitate to prescribe marijuana due to the limited availability of clinical trials and a lack of awareness regarding the potential risks and benefits associated with the substance. Marijuana comprises over 400 compounds, such as flavonoids, terpenoids, and cannabinoids. Among these, cannabinoids are the active ingredients that exhibit individual interactive effects that collectively contribute to marijuana's overall impact. 
+
+FDA-approved analogs of marijuana include cannabidiol (CBD), dronabinol, and nabilone. Medical marijuana lacks approval from the US Food and Drug Administration (FDA) for treating any medical condition. Nevertheless, cannabidiol marks a notable exception as the first FDA-approved drug containing a purified substance derived from marijuana. The primary cannabinoid in marijuana is tetrahydrocannabinol, or THC, which is responsible for the psychoactive effects sought by recreational users and the therapeutic effects of the drug. Although ongoing research continues to elucidate the mechanism of action, it is established that the brain and peripheral tissues harbor widespread cannabinoid receptors forming the endocannabinoid system. The endocannabinoid system regulates metabolism, appetite, blood pressure, glycemic control, immune response, and sense of reward. This activity reviews the current indications, administration, and contraindications for medical marijuana, providing the interprofessional healthcare team with the necessary skills to care for patients who use or are considering using marijuana to alleviate their symptoms.
+
+
+Objectives:
+Identify the diverse compounds in marijuana, including cannabinoids, flavonoids, and terpenoids, to enhance understanding of its composition.Implement appropriate administration methods for medical marijuana, including oral, sublingual, topical, or inhaled routes, based on patient preferences and medical indications.Assess patients for potential contraindications and monitor for adverse effects, using an evidence-based approach to ensure safe medical marijuana use.Collaborate with the interprofessional healthcare team and social workers to ensure comprehensive patient care, considering potential drug interactions and coordinating treatment plans.
+Access free multiple choice questions on this topic.
+
+
+Cannabis, commonly known as marijuana, is frequently sought after by patients for the management of various conditions. The primary medical indications of marijuana are to relieve symptoms rather than cure underlying diseases. Conversely, many clinicians hesitate to prescribe marijuana due to the limited availability of clinical trials and a lack of awareness regarding the potential risks and benefits associated with the substance.
+
+Medical marijuana lacks approval from the US Food and Drug Administration (FDA) for treating any medical condition. However, cannabidiol, or CBD, marks a notable exception as the first FDA-approved drug containing a purified substance derived from marijuana. 
+
+
+FDA-Approved Indications
+
+
+The FDA-approved analogs of marijuana include cannabidiol, dronabinol, and nabilone.[1]
+
+Cannabidiol: The FDA has approved cannabidiol oral solution for the treatment of seizures associated with severe forms of epilepsy in patients aged 1 and older, specifically for Lennox-Gastaut syndrome,[2] Dravet syndrome, and [3] tuberous sclerosis.[4]
+
+Dronabinol: Dronabinol is approved by the FDA for the treatment of anorexia associated with weight loss in patients diagnosed with AIDS [5] and nausea and vomiting associated with cancer chemotherapy.
+
+Nabilone: Nabilone is indicated for the management of refractory chemotherapy–induced nausea and vomiting.[6]
+
+
+Off-Label Uses
+
+
+The off-label uses of marijuana are mentioned below.
+
+Marijuana comprises over 400 compounds, such as flavonoids, terpenoids, and cannabinoids. Among these, cannabinoids are the active ingredients that exhibit individual interactive effects that collectively contribute to marijuana's overall impact. Cytochrome p450 enzymes metabolize cannabinoids in the liver. The principal cannabinoid in marijuana is tetrahydrocannabinol, which is responsible for the psychoactive effects sought by recreational users and the therapeutic effects of the drug. Although ongoing research continues to elucidate the mechanism of action, it is established that the brain and peripheral tissues harbor widespread cannabinoid receptors forming the endocannabinoid system. This system regulates various bodily functions, including metabolism, appetite, blood pressure, glycemic control, immune response, and sense of reward. Although cannabinoid receptors are located throughout the body, the most prominent effects arise from the interactions in the central nervous system (CNS). Due to the high lipid-soluble profile, cannabinoid receptors efficiently circulate through the body, causing diverse effects dependent on receptor activation and dosage.[10]
+
+The primary action of cannabinoids occurs on the G-protein–coupled receptors known as cannabinoid receptors, which include CB1 and CB2. CB1 receptors located in the CNS modulate the release of several neurotransmitters, including norepinephrine, dopamine, serotonin, and gamma-aminobutyric acid (GABA). On the other hand, CB2 receptors are located in the immune system and are assumed to function in modulating immune and inflammatory responses. Notably, CB2 expression becomes highly inducible on the microglia in the CNS following inflammation.[11][12]
+
+
+Pharmacokinetics
+
+
+Absorption: Inhaling marijuana rapidly elevates tetrahydrocannabinol concentration in the bloodstream, reaching its peak within 3 to 10 minutes. On the other hand, oral ingestion leads to peak levels within 1 to 2 hours. Liver metabolism reduces the oral bioavailability of tetrahydrocannabinol by 4% to 12%.
+
+Distribution: The lipophilic tetrahydrocannabinol disseminates to adipose tissue, liver, lungs, and spleen. Metabolism results in the generation of psychoactive 11-hydroxy-9-tetrahydrocannabinol and the formation of inactive tetrahydrocannabinol (THC-COOH). After absorption into the bloodstream, tetrahydrocannabinol rapidly penetrates fatty and highly vascularized tissues, including the brain and muscles. This initial distribution is followed by a slower redistribution of the compound from deep fat deposits back into the bloodstream.[13][14]
+
+Metabolism: The cytochrome P450 enzymes, also known as CYP or CYP450, found in liver cells facilitate microsomal hydroxylation and oxidation, which metabolize tetrahydrocannabinol. Plasma clearance rates vary depending on factors such as gender and usage history. Liver metabolism significantly reduces oral tetrahydrocannabinol bioavailability.[15]
+
+Elimination: Most of the metabolized cannabis is excreted through feces (65%) and urine (20%). Glucuronic acid conjugation enhances the solubility of metabolites. THC-COOH is commonly found in urine, whereas 11-OH-THC is usually dominant in feces. The detection times of tetrahydrocannabinol vary among users.[16]
+
+
+Available Dosage Forms
+
+
+Marijuana can be administered in various ways, including orally, sublingually, or topically. The substance may also be smoked, incorporated into foods, or brewed as tea.
+
+
+Adult Dosage
+
+
+The recommended dosages for FDA-approved marijuana analogs—cannabidiol, dronabinol, and nabilone—are listed below.
+
+Cannabidiol: The recommended dosages of cannabidiol for various medical conditions are mentioned below.
+
+Dronabinol: The recommended dosages of dronabinol for various medical conditions are mentioned below.
+
+Nabilone: The recommended dosages of nabilone for various medical conditions are mentioned below.
+
+
+Specific Patient Populations
+
+
+Hepatic impairment: No dosage adjustments are necessary for cannabidiol in patients with mild hepatic impairment. However, dosage reduction is required for individuals with moderate-to-severe hepatic impairment.[19]
+
+Renal impairment: The manufacturer's labeling for nabilone, cannabidiol, or dronabinol does not specify any dosage adjustments for patients with renal impairment.
+
+Pregnancy considerations: The use of cannabidiol and dronabinol is not recommended during pregnancy as they can cause fetal harm.
+
+Breastfeeding considerations: The psychoactive element of cannabis, tetrahydrocannabinol, is present in breast milk in insignificant amounts. Research indicates the detection of tetrahydrocannabinol in milk for a period ranging from 6 days to over 6 weeks. Concerns arise regarding potential impacts on neurological development, neurotransmitters, and endocannabinoid-related functions. The research observed reduced levels of secretory immunoglobulin A in the breast milk of mothers who use cannabis. A study suggested that regular cannabis use may affect infants' motor development but not their intellectual progress. Guidelines suggest avoiding cannabis while nursing due to potential developmental effects from breast milk exposure. Paternal cannabis use might raise the sudden infant death syndrome risk.[20]
+
+Pediatric patients: The prevalence of cannabis use disorder was noted at 10.7% among adolescents and a lower proportion of 6.4% among young adults within a year. Moreover, this discrepancy persisted, with rates of 20.1% for adolescents and 10.9% for young adults when considering a period extending beyond 36 months. This phenomenon aligns harmoniously with the established trajectory, indicating a swifter transition to substance use disorders (SUDs) when drug initiation occurs at an earlier age. Although the American Academy of Pediatrics (AAP) advocates for SUD screening in adolescents, the US Preventive Services Task Force emphasizes the practice of such screening exclusively for adults.[21]
+
+Older patients: Research findings indicate a significant increase in the frequency of emergency department (ED) visits associated with cannabis use among individuals 65 and older. The comprehensive rate surged from 20.7 for every 100,000 ED visits in 2005 to 395.0 per 100,000 ED visits in 2019. Incorporating discussions about cannabis use and providing valuable advice on its safe use should become a regular part of healthcare for older adults.[22] 
+
+The most common emergency caused by marijuana ingestion is a panic attack.[23] The most common adverse effects associated with marijuana include dizziness, dry mouth, nausea, disorientation, euphoria, confusion, sedation, increased heart rate, and breathing problems.[24][25][26][27]
+
+
+Drug-Drug Interactions
+
+
+Limited information is available regarding contraindications with cannabis-derived pharmaceuticals and medical cannabis. Known contraindications to dronabinol, a synthetic tetrahydrocannabinol and DEA Schedule III drug, include hypersensitivity to the drug, allergy to cannabinoids or propylene glycol or peppermint oil, as well as concurrent use of ritonavir, which may lead to potential toxicity.[37] Similarly, nabilone and cannabidiol are contraindicated in patients with prior hypersensitivity reactions.[45]
+
+Medical contraindications include cardiovascular disease, arrhythmias, poorly controlled hypertension, severe heart failure, history of psychotic disorder, patients aged 8 and younger, and pregnant or nursing women.[20]
+
+
+Warning and Precautions
+
+
+Clinicians can detect marijuana use up to 2 to 5 days after exposure for infrequent users and up to 1 to 15 days for chronic or heavy users. Individuals with high body fat may show positive tests from 1 to 30 days. The actual detection times vary based on various factors, including the method of use, metabolism, and volume of distribution. In addition, it also depends on the type of tetrahydrocannabinol metabolite being tested for. Although several medications and materials have triggered false positives, more detailed and expensive tests can provide further differentiation if necessary.
+
+Evaluating the levels of alanine transaminase, aspartate transaminase, and total bilirubin before initiating treatment, with dosage changes, or making changes to hepatotoxic medications is crucial.[52] In addition, it is also essential to closely monitor the PT/INR of patients using marijuana with warfarin to mitigate bleeding risks.[38]
+
+Marijuana is classified as a Schedule I substance by the FDA, indicating that it is not recognized for medical use and is deemed to have a high potential for substance use from a federal perspective. As a result, doctors cannot prescribe marijuana, but they may certify its use in states that allow the use to treat medical conditions. Both dronabinol (a synthetic tetrahydrocannabinol) and nabilone (a synthetic cannabinoid receptor agonist) are individual oral agents registered for use in the United States and available commercially, but they have been difficult to titrate to achieve therapeutic effects. As of now, it is not known to what extent a clinician who certifies a patient for medical marijuana is liable for negative outcomes or whether medical insurance will cover liability.[53][54]
+
+
+Clinical Features
+
+
+Marijuana toxicity may manifest with clinical features such as tachycardia, postural hypotension, tachypnea, nystagmus, ataxia, euphoria or dysphoria, conjunctival injection, hypotonia, seizures that are associated with ingestion of cocaine, impaired cognition,[55] respiratory depression,[56] and coma.[56]
+
+
+Diagnosis
+
+
+Following guidance from the Substance Abuse and Mental Health Services Administration (SAMHSA), the recommended detection threshold is set at 50 ng/mL.[16][57]
+
+
+Management
+
+
+The management of conditions related to marijuana toxicity involves the following actions:
+
+A vast amount of literature exists on marijuana and its health benefits. Unfortunately, the majority of these are anecdotal reports. Due to the absence of clinical trials and a lack of a universal formula for marijuana, significant controversies persist regarding the clinical benefits of marijuana. All clinicians, including nurse practitioners and pharmacists, should educate patients that marijuana may not be the panacea for all medical disorders. Currently, marijuana has been shown to improve appetite and reduce mild nausea. Until data from randomized clinical trials are available, the prescription of marijuana should be limited, as more evidence seems to indicate that this product may not be entirely safe for long-term consumption.[59][60][61]
+
+The 2019 survey of 178 community-based pharmacists and medical marijuana dispensing pharmacists (MMDPs) revealed that both pharmacist groups highly valued opioid use information within the Connecticut Prescription Monitoring and Reporting System (CPMRS). Although 90% of both groups checked opioid use, 81.2% of MMDPs and 38.4% of CBPs monitored medical marijuana use. MMDPs highlighted the need for marijuana-related data for effective counseling. The study underscores the potential benefits of integrating marijuana data into prescription drug monitoring programs (PDMPs), enhancing pharmacist recommendations by addressing drug interactions and workflow issues.[62]
+
+Triage nurses and clinicians in the ED should maintain airway breathing and circulation in acute intoxication. Psychiatrists should evaluate for signs of psychosis and administer proper treatment. Critical care clinicians should care for the patient in the ICU. In addition, clinicians should refer patients with cannabis dependency to social workers. As depicted above, clinicians, pharmacists, specialists, nurses, and other healthcare professionals are involved in taking care of the patient, and an interprofessional approach will minimize the risk of SUDs.
+
+Disclosure: Anisha Turner declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Preeti Patel declares no relevant financial relationships with ineligible companies.
+
+Disclosure: Suneil Agrawal declares no relevant financial relationships with ineligible companies.
+
+
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+
+
+Your browsing activity is empty.
+
+Activity recording is turned off.
+
+Turn recording back on
+
+Connect with NLM
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+Help
+Accessibility
+Careers
